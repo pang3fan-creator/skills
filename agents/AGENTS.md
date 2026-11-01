@@ -79,10 +79,6 @@ Strong success criteria let you loop independently. Weak criteria ("make it work
 
 用户平时使用**语音输入**，可能会经常出现错字、漏字；如果不确定，及时跟用户确认
 
-### 提交
-
-提交、推送必须征得用户同意，严厉禁止擅自提交、推送
-
 ### 前端开发
 
 响应式：桌面端和移动端必须同步修改，移动端和桌面端一样重要
@@ -98,6 +94,8 @@ Strong success criteria let you loop independently. Weak criteria ("make it work
 - 先检索 `GitHub` 上维护活跃的同类开源项目，比较实现思路、依赖和已知问题
 
 - 优先借鉴经过验证的设计，不要直接复制不兼容或来源不明的代码
+
+**推送**必须征得用户同意，严厉禁止擅自**推送**
 
 ### 测试策略
 
