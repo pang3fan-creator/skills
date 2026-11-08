@@ -15,6 +15,7 @@ A collection of agent-agnostic skills, subagents, and commands for AI coding age
 | **prompt-lookup** | Discover, retrieve, and improve prompts via the prompts.chat MCP server |
 | **revise-agent-md** | Update AGENTS.md with learnings from the current session |
 | **seo-preflight-gate** | Pre-publish SEO gate: H1, canonical, noindex, hreflang, sitemap, internal links |
+| **seo-webcafe** | Use seo.web.cafe (哥飞 SEO toolbox) through a browser to pull live SEO data — KD, keyword ideas, SERP breakdowns, competitor traffic keywords, DR, valuations, on-page audits — on the site's daily web credits instead of the paid API |
 | **session-saver** | Save session summaries to `docs/sessions/` for context recovery |
 
 ## Subagents

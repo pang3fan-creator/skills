@@ -1,0 +1,763 @@
+{
+ "note": "2026-11-08 live 研究记录（已截断长文本、脱敏账号名）。用于核验 references/pages/*.md 中的样例与成本。",
+ "batches": {
+  "A2": [
+   {
+    "name": "kd",
+    "url": "https://seo.web.cafe/kd/?keyword=photo+enhancer&gl=us",
+    "before": {
+     "remain": null
+    },
+    "ready": true,
+    "data": {
+     "score": "51.7",
+     "level": "中等",
+     "budget": "进入前十的链接预算（经验值）：约 65–140 个引用域（中值 90）；目录/收录型外链为主时约 230–550 个。对应域名权重量级约 DR 32。按 Ahrefs 官方 KD→引用域曲线由难度分 51.7 插值（该口径为进入前十所需）。现实对照：前十中最弱的稳定首页为 ezenhancer.ai（DR 15）。",
+     "kwstats": "月搜索量（12 个月均值）：18.3 万",
+     "reasons": "综合 Top9 结果的位置加权竞争强度（首页全额、普通内页 45% 折算、专门经营页面 65% 折算），关键词难度估算为 51.7/100（中等）。\n前 9 名中有 3 个首页排名（ezenhancer.ai、enhancephoto.ai、app.remini.ai），首页平均站点强度 47/100。\n首页打内页：第 2 名 ezenhancer.ai（DR 15，首页）排在了 DR 更高的内页第 3 名 adobe.com（DR 95）前面 —— 首页汇集全站内链权重、用户行为与外链锚文本，域名/主题高度聚焦，是新站/小 DR 站反超老站内页的经典结构，而非靠外链体量取胜。这既解释了低 DR 首页为何能靠前，也是后来者可复制的打法：用聚焦首页（最好域名直拼该词）正面对位它们的内页。\n7/9 个结果是专门为这个词制作的页面（标题或主力流量词直接命中），多个站点重兵正面争夺 —— 这不是\"大站顺路排名\"的机会盘面，而是被正面争夺的红海词。（+10）\n前十中有 2 个注册不满 18 个月的新域名（ezenhancer.ai 11 个月、enhancephoto.ai 14 个月）已站稳排名 —— 赛道对新站友好。（-3）\n第 2 名 ezenhancer.ai（DR 15，首页排名）证明弱站可进前十。且其体验分垫底（17/100），属于脆弱占位者，更容易被好产品挤掉（额外 -2）。它注册仅约 11 个月就排到第 2 名、月搜索流量已达 80.5 万—— 这不是蜜月期侥幸，而是新站正在赢下这个词，是\"此词可做\"的最强证据；入场门票是做出与它同等水平的产品。（-10）\n4 个排名域名的主力流量词中直接包含此词，这些站点就是为这个词而来。（+5）\n该词月搜索量约 18.3 万（来自排名站点主力词数据），属于中大体量词。（+3）\n盘面实测：最弱的占位者是第 2 名 ezenhancer.ai（DR 15，按 DR 折算约 15 个引用域）—— 这是这个盘面上真实做到过的门槛，比下面的曲线值更该信。进入前十的链接预算（曲线口径）：约 65–140 个引用域（中值 90，按 Ahrefs 官方 KD→引用域曲线由难度分 51.7 插值（该口径为进入前十所需）。现实对照：前十中最弱的稳定首页为 ezenhancer.ai（DR 15））。若以目录/收录型外链为主（dofollow 占比低，AI 工具站常见打法），需放大到约 230–550 个。对应的域名权重量级约为 DR 32。此为量级参考，非精确值。",
+     "containerText": "51.7\n中等\nphoto enhancer · US\n0 极易\n20 容易\n40 中等\n60 困难\n80 极难\n100\n搜索获取于 2026/11/7 14:14:54 · KD 计算于 2026/11/8 18:51:54\n进入前十的链接预算（经验值）：约 65–140 个引用域（中值 90）；目录/收录型外链为主时约 230–550 个。对应域名权重量级约 DR 32。按 Ahrefs 官方 KD→引用域曲线由难度分 51.7 插值（该口径为进入前十所需）。现实对照：前十中最弱的稳定首页为 ezenhancer.ai（DR 15）。\n月搜索量（12 个月均值）：18.3 万\n复制 Markdown 结果\n这个难度分准吗？\n🎯 精准\n⬆️ 偏高\n⬇️ 偏低\nKD 计算历史\n关键词「photo enhancer · US」列出 30 条计算记录，按原始计算时间排列；复用已有结果不新增记录。曲线展示计算历史，不一定代表搜索排名变化。实心点为当前使用的记录。\n0\n20\n40\n60\n80\n100\n51.7\n6-11\n11-8\n计算时间\t难度分\t变化\t等级\t反馈\n2026-11-08 18:51 · 最近计算 · 当前使用\t51.7\t—\t中等\t—\n2026-11-08 17:41\t51.7\t▲ +0.1\t中等\t—\n2026-11-08 08:04\t51.6\t▼ -7.5\t中等\t—\n2026-11-05 00:10\t59.1\t▲ +8.4\t中等\t—\n2026-10-29 00:01\t50.7\t—\t中等\t—\n2026-10-21 17:42\t50.7\t▼ -0.3\t中等\t—\n2026-10-15 10:26\t51\t▲ +0.5\t中等\t—\n2026-10-08 00:16\t50.5\t▼ -0.3\t中等\t—\n2026-09-30 22:55\t50.8\t▲ +0.1\t中等\t—\n2026-09-23 14:43\t50.7\t—\t中等\t—\n2026-09-23 14:43\t50.7\t—\t中等\t—\n2026-09-19 20:33\t50.7\t▼ -2.8\t中等\t—\n2026-09-12 20:15\t53.5\t▲ +2.5\t中等\t—\n2026-09-05 16:09\t51\t▲ +0.3\t中等\t—\n2026-09-02 17:39\t50.7\t▼ -1.2\t中等\t—\n2026-08-28 18:01\t51.9\t▲ +7.7\t中等\t—\n2026-08-21 17:20\t44.2\t▼ -1.3\t中等\t—\n2026-08-14 14:06\t45.5\t▼ -2.5\t中等\t—\n2026-08-07 09:25\t48\t▲ +0.2\t中等\t—\n2026-08-05 23:41\t47.8\t▲ +0.3\t中等\t—\n2026-07-29 23:32\t47.5\t—\t中等\t—\n2026-07-28 13:48\t",
+     "statusText": "正在查询「photo enhancer」…",
+     "errorBox": ""
+    },
+    "after": {
+     "remain": 71,
+     "used": 429,
+     "limit": 500
+    },
+    "ms": 3412
+   },
+   {
+    "name": "serp",
+    "url": "https://seo.web.cafe/serp/?keyword=ai+image+editor&gl=us",
+    "before": {
+     "remain": 71,
+     "used": 429,
+     "limit": 500
+    },
+    "ready": true,
+    "data": {
+     "containerText": "盘面综述\n难度 67.2 · 困难\n搜索量 ≈114.4K/月\n复制报告给 AI\n为什么是它们：第一页 = 2 个权重和页面都硬的定制页 + 4 个把页面做满/域名直拼上位的小站 + 1 个靠用户行为撑住的小站 + 3 个靠域名体量占位的大站。\n共同点：功能就做在排名页上（8/8 当页承接），页面平均 88 分。\n你的机会：先打第 3 位 ai-image-editor.com（弱点最多的占位），难度 67.2（困难）。\n格局构成：权重×3、双优×2、EMD×1、行为×1、页面×3。难度 67.2（困难）。\n页面质量水位高：成功体检的 9 页平均 On Page 88 分——页面层没有便宜可捡，胜负在权重、外链与用户行为。\n打法可行性证明：第 3、5、7、10 位靠页面/EMD 上位——这个词对认真做页面的后来者是开放的。\n行为分证明：第 4 位是小 DR 站靠用户行为（人均页数/停留/跳出）站住的——该词的排名对体验过硬的产品开放，好产品可以先于外链拿到位置。\n当页承接是这个盘的门票：可判定的 8 页里 8 页把功能直接做在排名页上（打开就能用）——谷歌明显偏好直接满足需求的页面。\n最薄弱占位：第 3 位 ai-image-editor.com（关键词密度 7.2% 明显偏高，有堆砌嫌疑；用户行为组内垫底（第 4 百分位：人均 1.3 页、停留 2 秒、跳出 53%）——体验更好的产品可凭行为数据反超）——超越目标从它开始。\n为什么第 1 名是第 1 名（10 个非平台结果横向对比）\n第 1 名 deepai.org 的可见优势只有一项：该词是它的主力流量词（月带 140.4K）；且 On Page 分仅 81（全场第 9，中位 89）——它的位置更多来自外链/行为/时间积累等页外因子，占位没有指标显示的那么稳。同属聚焦首页的还有第 5、7、10 名——它们共享同一套结构加成，先后差在权重：第 3 名 DR 30 领跑，第 10 名 DR 仅 29 靠后。同结构之间页面质量是门票不是排位器，DR 与页面级外链才决定谁前谁后\n↑ 该词是它的主力流量词（月带 140.4K）\n↓ On Page 分仅 81（全场第 9，中位 89）\n↓ 主题聚焦仅 57%（全场第 8，中位 92%）\n↓ 正文词数仅 1072（全场第 9，中位 1986）\n↓ 用户行为仅 第 22 百分位（全场第 9，中位 第 47 百分位）\n这个词的排名被什么驱动：没有任何可见维度与排名明显同序——位置由外链质量、点击行为、内容新鲜度等页外因子主导，可见指标好的挑战者有机会。\n错位点评（实际位置 vs 可见指标应得位置）\n第 1 名 deepai.org：按可见指标只该排池内第 10，实际第 1 —— 把它抬上来的因子并不神秘：体量、品牌与外链积累（巨头惯例），不是可复制的打法\n第 3 名 a",
+     "statusText": "第 3 步 / 共 3 步：逐位归因与盘面综述…",
+     "errorBox": ""
+    },
+    "after": {
+     "remain": 71,
+     "used": 429,
+     "limit": 500
+    },
+    "ms": 7343
+   },
+   {
+    "name": "audit",
+    "url": "https://seo.web.cafe/audit/?url=https%3A%2F%2Fwww.remove.bg%2F&kw=background%20remover",
+    "before": {
+     "remain": 71,
+     "used": 429,
+     "limit": 500
+    },
+    "ready": true,
+    "data": {
+     "containerText": "45\nD · 较差\n主题聚焦 18%\n复制报告给 AI\nhttps://www.remove.bg/\n关键词：background remover\n⚠ 关键词聚焦度 18%，主题与关键词相关但不够聚焦，总分封顶 45 分——把关键词落进 Title/H1/正文，让页面主题对准它（结构项原始得分 64，已按聚焦度封顶）\n⚠ 正文仅 384 词（达标区间 1200~1800），内容明显偏薄，总分封顶 75 分——词数是内容质量与文案聚焦的前提，正文不足其余项做得再好也难以参与排名，请把正文补到 1200 词以上\n关键词覆盖\nTitle 部分\nDescription ✕\nH1 ✕\nH2/H3 ✕\nURL ✕\n开头100词 部分\nMeta 元信息\n25/25\n内容质量\n15/24\n关键词优化\n6.5/40\n链接\n5.5/7\n图片与媒体\n8/8\n社交与结构化数据\n7/10\n技术与抓取\n17/17\n状态 200\n耗时 541ms\n体积 59KB\n词数 384\n内链 2\n外链 1\n图片 3\nlang en\n本工具只做 On Page SEO 自查。分数高不代表一定拿到靠前排名——排名由网页权重、页面 SEO、页面体验、用户行为数据、竞品多寡与强弱等多因素综合决定。\n全页关键词密度榜\n全页可见文本分词后 1~5 词组合的出现次数与密度（各取前 15）。完整覆盖目标关键词的词组标绿「命中」，部分覆盖标黄并给出覆盖比例\n两种密度分别看不同的事：词频密度=次数÷总词数，1~5 词同一把尺子，看页面反复强调什么词、做榜单聚焦判断就看这列；占位密度=次数×词数÷总词数，即该词组实际占了正文多少词，与上方「关键词密度」同口径，判断某个目标词是否堆砌看这列（单词 3%~5% 佳，多词 >3% 提防堆砌）。单词榜两列相等，从 2 词榜起按词数成倍拉开。\n1 词\n2 词\n3 词\n4 词\n5 词\n#\t词组\t次数\t词频密度\t占位密度\t关键词覆盖\n1\tclass text-typo\t9\t2.34%\t4.69%\t—\n2\ttext-typo w-9\t9\t2.34%\t4.69%\t—\n3\tw-9 h-9\t9\t2.34%\t4.69%\t—\n4\th-9 for\t8\t2.08%\t4.17%\t—\n5\tremove bg\t7\t1.82%\t3.65%\t—\n6\tto use\t3\t0.78%\t1.56%\t—\n7\tthis image\t3\t0.78%\t1.56%\t—\n8\tfor future\t3\t0.78%\t1.56%\t—\n9\tcar dealerships\t2\t0.52%\t1.04%\t—\n10\tlearn more\t2\t0.52%\t1.04%\t—\n11\tprivacy policy\t2\t0.52%\t1.04%\t—\n12\thelp us\t2\t0.52%\t1.04%\t—\n13\tstyle margin-top\t2\t0.52%\t",
+     "statusText": "正在抓取页面并分析（最长 20 秒）…",
+     "errorBox": ""
+    },
+    "after": {
+     "remain": 70,
+     "used": 430,
+     "limit": 500
+    },
+    "ms": 3414
+   },
+   {
+    "name": "review",
+    "url": "https://seo.web.cafe/review/?url=https%3A%2F%2Fwww.remove.bg%2F&gl=us",
+    "before": {
+     "remain": 70,
+     "used": 430,
+     "limit": 500
+    },
+    "ready": true,
+    "data": {
+     "containerText": "一眼结论\n复制报告给 AI\n这页在做什么：「remove bg」，已排第 1 位；页面 75 分、聚焦 75%，当页承接。\n站的底子：DR 83、月访问 54.2M（环比 -8.6%），跳出 33%。\n最值得做的事：从 2 个重要项下手（见 P1）——建议清单已按性价比排序。\n页面画像\n这页是谁、在做什么词（点选候选词可换词重新核查排位，每次 1 积分）\nRemove Background from Image for Free – remove.bg\nhttps://www.remove.bg/（首页）\nRemove image backgrounds automatically in 5 seconds with just one click. Don't spend hours manually picking pixels. Upload your photo now & see the magic.\n推断词\nremove bgT\nclass text-typo w-9 h-9正文\n页面侧\nOn Page 75 C\n聚焦 75%\nTitle/H1 ✓/✕\n词数 384\n渲染 SSR\n承接 当页\n耗时 466ms\n域名侧\nDR 83\n月访问 54.2M\n环比 -8.6%\n人均 2.9 页\n停留 2分47秒\n跳出 33%\n搜索占比 56%\n主力流量词\nremove bg 2.9M/月 品牌\nremove background 2.1M/月\nbackground remover 1.7M/月\nbackground remove 1.2M/月\nbg remove 1M/月\nAI 引荐\ngemini.google.com\nchatgpt.com\nperplexity.ai\n体检扣分项（10 项，与 SEO 体检同引擎）\n谷歌排位核查\n「remove bg」（谷歌 us）：本页排第 1 位 · 前十 2 个首页占位、0 个 Sitelinks、0 个平台位\n#1\nremove.bg\n本站\n首页\nRemove Background from Image for Free – remove.bg\n#2\nphotoroom.com\nInstant Background Remover - Remove Bg for Free Online\n#3\nadobe.com\nFree Image Background Remover | Adobe Firefly\n#4\npicsart.com\nFree Background Remover\n#5\npixelcut.ai\nFree Background Remover: Remove BG from Image Online\n#6\ncanva.com\nRemove image background for free\n#7\nrem",
+     "statusText": "第 3 步 / 共 3 步：多维点评与建议…",
+     "errorBox": ""
+    },
+    "after": {
+     "remain": 69,
+     "used": 431,
+     "limit": 500
+    },
+    "ms": 3310
+   },
+   {
+    "name": "worth",
+    "url": "https://seo.web.cafe/worth/?input=photoroom.com&model=ai",
+    "before": {
+     "remain": 69,
+     "used": 431,
+     "limit": 500
+    },
+    "ready": true,
+    "data": {
+     "containerText": "你的网站值这么多钱\n一键分享，下面的数据都是佐证\n复制链接\n下载图片\n复制图片\n估值参考：$335.3M\nphotoroom.com · AI 工具站（订阅/付费）\n综合估值 $335.3M，参考区间 $78.9M – $401.2M。\n月收入估算 约 $6.6M。\n已综合流量走势、来源结构、域龄与用户行为等 3 项信号修正估值。\n站点成色优质（质量分 84），估值取区间上段。\n月收入估算\n月收入\n≈ $6.6M\n/月\n单位流量价值\n$0.276\n/访问\n站点成色\n（实时数据 · 缓存）\n84\n优质\n月流量 18.7M，体量可观\nAhrefs DR 79，外链底子扎实\n域龄 28 年，老站\n有真实排名流量词，搜索表现被谷歌验证过\nAhrefs DR\n79\n月访问量\n18.7M\n全球排名 #3.3k\n自然搜索占比\n43%\n域龄\n28 年\n1998-11-21 注册\n流量环比\n-7%\n下滑\n用户行为\n跳出 59%\n人均 2.9 页",
+     "statusText": "",
+     "errorBox": ""
+    },
+    "after": {
+     "remain": null
+    },
+    "ms": 4790
+   },
+   {
+    "name": "backlink",
+    "url": "https://seo.web.cafe/backlink/?input=techbullion.com&price=150&type=guest",
+    "before": {
+     "remain": null
+    },
+    "ready": true,
+    "data": {
+     "containerText": "评估结果卡片\n一键分享，下面的数据都是佐证\n复制链接\n下载图片\n复制图片\n值得买：$150 在合理区间内\ntechbullion.com · 客座文章（Guest Post） · 报价 $150\n该站在主流 Guest Post 平台有公开挂牌，你的报价高于其挂牌水平——有明显砍价空间。\n同档位（DR 80-100 × 月流量 100k-500k 档，并已纳入该站在主流平台的真实挂牌价，71 个优质站样本）挂牌价中位数 $161，常见区间 $53–$294，你的报价是中位数的 0.9 倍。\n站点成色\n（实时数据 · 缓存）\n64\n尚可\n月流量 112.4k，体量可观\nAhrefs DR 81，外链底子扎实\n域龄 10.5 年，老站\n有真实排名流量词，搜索表现被谷歌验证过\nAhrefs DR\n81\n月访问量\n112.4k\n全球排名 #392.5k\n自然搜索占比\n17%\n域龄\n10.5 年\n2016-05-04 注册\n流量环比\n-39%\n下滑\n用户行为\n跳出 65%\n人均 1.5 页\n近月流量走势\nSimilarWeb 月访问量\n26-07\n26-08\n26-09\n流量从哪来\n渠道分布 · 判断流量干不干净的关键\n自然搜索 17%\n付费 1%\n直接访问 66%\n社交 4%\n引荐 10%\n邮件 2%\n访客地区：Portugal 28% · India 16% · United States 15% · Germany 8% · Pakistan 6%\n主力流量词\n谷歌验证过的真实搜索需求\n关键词\t月搜索量\tCPC\ntechbullion\t10.3k\t$1.6\ntech bullion\t1.5k\t$2.02\nshop stock\t78.4k\t$2.88\ncloud mining\t70.2k\t$1.69\nai trading\t26.2k\t$6.41\n合理价区间\nDR 80-100 × 月流量 100k-500k 档，并已纳入该站在主流平台的真实挂牌价 · 71 个优质站样本\n能砍到就赚\n$53\n市场中位\n$161\n高于此别买\n$294\n\n已计入调整：流量下滑 -15%",
+     "statusText": "",
+     "errorBox": ""
+    },
+    "after": {
+     "remain": null
+    },
+    "ms": 5854
+   }
+  ],
+  "B": [
+   {
+    "name": "history",
+    "url": "https://seo.web.cafe/history/?domain=photopea.com",
+    "before": {
+     "remain": null
+    },
+    "ready": true,
+    "data": {
+     "containerText": "「photopea.com」被使用过 1 段时期（最早快照 2013.06）\n最近一次快照在 8 天前，网站近期仍在正常使用。\n最早快照\n2013.06\n有记录的起点\n最近快照\n2026.11\n8 天前\n活跃月份\n89\n有快照的月份数\n内容版本\n1000\n首页内容变化次数\nwhois 当前状态：已注册，当前这一手注册于 2012-11-13，2027-11-13 到期。最早快照没有早于这次注册；不过 whois 只反映当下这一手，域名整体转让并不会改变注册时间——是否换过主人，以下方改版跟踪的内容对比为准。\n使用时间轴\n蓝色是使用时期，斜纹是空窗期；下方小柱是每年被抓取的月份数\n第 1 段\n2013.06 – 2026.11\n2013\n2014\n2015\n2016\n2017\n2018\n2019\n2020\n2021\n2022\n2023\n2024\n2025\n2026\n历次使用与每段快照\n每段时期抓取开头、中间、结尾的代表性快照，看看它当时在做什么\n第 1 段\n2013.06 – 2026.11\n持续约 13 年5 个月 · 有快照的月份 89 个 · 内容版本 1000 个\n2013.06 的快照抓取中…\n2015.03 的快照抓取中…\n2015.12 的快照抓取中…\n2016.06 的快照抓取中…\n2017.05 的快照抓取中…\n2018.05 的快照抓取中…\n2019.11 的快照抓取中…\n2021.01 的快照抓取中…\n2021.06 的快照抓取中…\n2022.01 的快照抓取中…\n2022.11 的快照抓取中…\n2023.10 的快照抓取中…",
+     "statusText": "",
+     "errorBox": "",
+     "rows": 0,
+     "rowSamples": []
+    },
+    "after": {
+     "remain": null
+    },
+    "ms": 6973
+   },
+   {
+    "name": "adsense",
+    "url": "https://seo.web.cafe/adsense/?d=remove.bg",
+    "before": {
+     "remain": null
+    },
+    "ready": true,
+    "data": {
+     "containerText": "△ 整改后再提交\nremove.bg · Remove Background from Image for Free – remove.bg\n通过 13\nBlocker 0\nHigh 1\nMedium 2\n待确认 53\n不适用 4\n一键复制报告给 AI\n复制后直接粘给 ChatGPT / Claude / Codex，让它按报告逐项整改你的网站\n修复清单\n按严重程度排序，清完标红项再提交申请\nHigh\n大概率导致拒审\nADS-CONTENT-03\n主体内容量充足，无大量薄页\n抽样内页正文中位数 397 词，其中 1 页低于 250 词——内容深度不够是最常见的拒审原因。\n拒审后每次都增加内容深度和更多页面：薄页扩写或合并，新增深度内容页。\nMedium\n建议申请前修好\nADS-TXT-02\n建议发布 ads.txt 防止广告库存被冒卖\n尚未发布 ads.txt。这不是拒审原因，但建议开通后立即发布。\n获得 pub-ID 后在根目录发布 /ads.txt。\nADS-UX-05\n具备信任页：About、Contact、隐私政策（必要时含条款）\n首页未发现指向 About、Contact 的链接。\n补齐缺失的信任页并放进页脚导航——这是审核员判断网站可信度的第一眼。\n逐项检查表\n73 项 AdSense 审核要求，一项不落\n▸\n资格与账号\n4 项\n✓1\n▸\n所有权与就绪\n7 项\n✕1 ✓1\n待确认\nADS-OWN-01\n能向页面 <head> 注入 AdSense 代码（有源码/CMS 权限）\n请确认你能编辑站点模板，把 AdSense 验证代码放进每页 <head>。用建站平台的话确认平台支持自定义代码。\n待确认\nADS-OWN-02\n用自己拥有且可验证的站点申请\n请确认域名在你名下、DNS 可自主管理。不要拿不属于自己的站申请。\nPass\nADS-OWN-03\n页面支持 JS 正常渲染，HTML 结构完整\n首页 HTML 含正文 384 词，结构完整。\n待确认\nADS-SITE-01\n站点已加入 AdSense 站点列表并通过审核\n需在 AdSense 后台「网站」里添加本站并完成验证，这一步只能在后台操作。\n待确认\nADS-SITE-02\n至少一种所有权验证方式可部署（代码/ads.txt/meta）\n申请时按后台指引三选一部署即可；确认你有能力改 <head> 或上传根目录文件。\nN/A\nADS-TXT-01\nads.txt 存在时须包含 Google 授权行\n站点尚未发布 ads.txt，此项在发布后再核验。\nFail\nADS-TXT-02\n建议发布 ads.txt 防止广告库存被冒卖\n尚未发布 ads.txt。这不是拒审原因，但建议开通后立即发布。\n获得 pub-ID 后在根目录发布 /ads.txt。\n▸\n内容质量\n8 项\n✕1 ✓2\n待确认\nADS",
+     "statusText": "",
+     "errorBox": "",
+     "rows": 0,
+     "rowSamples": []
+    },
+    "after": {
+     "used": 438,
+     "limit": 500,
+     "remain": 62,
+     "tier": "VIP"
+    },
+    "ms": 65940
+   },
+   {
+    "name": "ideas",
+    "url": "https://seo.web.cafe/ideas/?q=ai+image+editor&gl=us",
+    "before": {
+     "used": 438,
+     "limit": 500,
+     "remain": 62,
+     "tier": "VIP"
+    },
+    "ready": true,
+    "data": {
+     "containerText": "拓词结果\n同品类拓词 · 种子「ai image editor」 · 搜索量口径 us · 本次扣 10 积分\n命中词数\n234k\n合计月搜索量\n31M\n预筛难度中位数\n47\n交易/商业意图占比\n32%\n全部意图\n交易\n商业\n信息\n导航\n下载 CSV\n交给 SEO Agent 精评\n关键词\t月搜索量 ▼\t近 3 月趋势\tCPC\t竞争度\t预筛难度\t意图\t精评\nai\t6.1M\t↑ +33%\t$3.51\t低\t100\t信息\t查难度 →\ncharacter ai\t3.4M\t→ -6%\t$0.09\t低\t68\t信息\t查难度 →\nmode ai\t2.7M\t↑ +35%\t$6.45\t低\t50\t信息\t查难度 →\ngoogle ai\t2.7M\t↑ +26%\t$0.42\t低\t84\t信息\t查难度 →\nai mode\t2.7M\t↑ +35%\t$6.45\t低\t58\t信息\t查难度 →\nhumanize ai\t1M\t↓ -31%\t$2.08\t中\t78\t信息\t查难度 →\npoly ai\t823k\t↓ -28%\t$14.88\t低\t28\t信息\t查难度 →\nai humanizer\t823k\t↓ -37%\t$2.39\t中\t67\t信息\t查难度 →\nai image generator\t823k\t↓ -23%\t$3.16\t中\t69\t交易\t查难度 →\ngoogle ai studio\t673k\t↓ -23%\t$1.46\t低\t47\t信息\t查难度 →\npolybuzz ai\t550k\t→ -6%\t$4.17\t低\t31\t信息\t查难度 →\ngoogle gemini ai\t550k\t↓ -31%\t$0.96\t低\t100\t信息\t查难度 →\ngoogle ai mode\t368k\t↑ +49%\t$9.12\t低\t37\t信息\t查难度 →\nmagicschool ai\t301k\t→ -2%\t$0.06\t低\t17\t信息\t查难度 →\nmeta ai\t301k\t→ 0%\t$4.98\t低\t49\t信息\t查难度 →\nai assistant\t301k\t↓ -65%\t$10.58\t低\t25\t商业\t查难度 →\nour dream ai\t301k\t→ +14%\t$6.43\t低\t4\t信息\t查难度 →\nundressing ai\t201k\t→ 0%\t$3.75\t低\t27\t信息\t查难度 →\nconversational ai\t201k\t↑ +164%\t$15.27\t低\t36\t商业\t查难度 →\nfree ai checker\t201k\t↓ -45%\t$2.58\t中\t78\t信息\t查难度 →\nai generator\t201k\t→ -19%\t$4.33\t中\t73\t信息\t查难度 →\nquestion ai\t201k\t↓ -66%\t$3.36\t低\t56\t信息\t查难度 →\nask ai\t201k\t→ +7%\t$1.95\t低\t66\t信息\t查难度 →\nai ph",
+     "statusText": "",
+     "errorBox": "",
+     "rows": 101,
+     "rowSamples": [
+      "关键词\t月搜索量 ▼\t近 3 月趋势\tCPC\t竞争度\t预筛难度\t意图\t精评",
+      "ai\t6.1M\t↑ +33%\t$3.51\t低\t100\t信息\t查难度 →",
+      "character ai\t3.4M\t→ -6%\t$0.09\t低\t68\t信息\t查难度 →",
+      "mode ai\t2.7M\t↑ +35%\t$6.45\t低\t50\t信息\t查难度 →"
+     ]
+    },
+    "after": {
+     "remain": null
+    },
+    "ms": 5199
+   },
+   {
+    "name": "sitekw",
+    "url": "https://seo.web.cafe/sitekw/?d=photoroom.com&gl=us",
+    "before": {
+     "remain": null
+    },
+    "ready": true,
+    "data": {
+     "containerText": "自然搜索概览\nphotoroom.com（整站 · us） · 本次扣 10 积分\n排名词数\n22k\n库里有记录的\n估算月搜索流量\n295k\n只算自然搜索\n前 3 位 / 4~10 位\n2076 / 4849\n词数\n新进 / 上升 / 下降 / 掉出\n6618 / 6728 / 6727 / 0\n与上一快照比\n排名关键词\n按估算流量取前 100 个\n全部位置\n前 3 位\n首页\n11~20 位\n下载 CSV\n交给 SEO Agent 拆解\n关键词\t位置\t月搜索量\t带来流量 ▼\t预筛难度\t意图\t落地页\nremove bg\t3\t1.2M\t52k\t69\t信息\t/tools/background-remover\nremove background\t4\t1.2M\t27k\t66\t信息\t/tools/background-remover\nwhite background\t3\t301k\t24k\t1\t信息\t/tools/white-background\nbg remove\t2\t450k\t16k\t69\t信息\t/tools/background-remover\npure white bg\t1\t27k\t15k\t0\t导航\t/tools/white-background\npure white background\t1\t27k\t10k\t0\t信息\t/tools/white-background\nphotoroom\t1\t41k\t8100\t47\t信息\t/\nfondo blanco\t1\t15k\t5789\t0\t信息\t/es/tools/white-background\nbackground\t4\t450k\t4891\t55\t信息\t/tools/background-remover\nphotoroom bg remover\t1\t18k\t4856\t1\t交易\t/tools/background-remover\nremove object from photo\t1\t12k\t4505\t50\t信息\t/tools/remove-object-from-photo\nremove item from photo\t1\t12k\t4505\t49\t信息\t/tools/remove-object-from-photo\nremove objects from image\t1\t12k\t4505\t50\t信息\t/tools/remove-object-from-photo\nremove object from image\t1\t12k\t4505\t50\t信息\t/tools/remove-object-from-photo\nremove objects from pictures\t1\t12k\t4505\t51\t信息\t/tools/remove-object-from-photo\ntransparent background\t3\t50k\t4122\t",
+     "statusText": "",
+     "errorBox": "",
+     "rows": 122,
+     "rowSamples": [
+      "关键词\t位置\t月搜索量\t带来流量 ▼\t预筛难度\t意图\t落地页",
+      "remove bg\t3\t1.2M\t52k\t69\t信息\t/tools/background-remover",
+      "remove background\t4\t1.2M\t27k\t66\t信息\t/tools/background-remover",
+      "white background\t3\t301k\t24k\t1\t信息\t/tools/white-background"
+     ]
+    },
+    "after": {
+     "remain": null
+    },
+    "ms": 5901
+   },
+   {
+    "name": "spam",
+    "url": "https://seo.web.cafe/spam/?domain=example.com",
+    "before": {
+     "remain": null
+    },
+    "ready": true,
+    "data": {
+     "containerText": "未收录\nexample.com\n未收录不等于这个域名干净——只说明库里没有它的判定依据，我们还没导入过含这个域名的 Ahrefs 报告。别把「查不到」当成放行证。",
+     "statusText": "",
+     "errorBox": "",
+     "rows": 0,
+     "rowSamples": []
+    },
+    "after": {
+     "remain": null
+    },
+    "ms": 6244
+   },
+   {
+    "name": "referring",
+    "url": "https://seo.web.cafe/referring/",
+    "before": {
+     "remain": null
+    },
+    "ready": true,
+    "data": {
+     "containerText": "#1—\thiggsfield.ai↗\t#866\t6.42%\t2.09M\t-8.48%\n#2↑1\televenlabs.io↗\t#1,128\t3.77%\t1.23M\t-2.41%\n#3↓1\tsuno.com↗\t#445\t3.46%\t1.13M\t-16.49%\n#4↑1\tpaypal.com↗\t#71\t2.51%\t818.9K\t-31.69%\n#5↓1\topencode.ai↗\t#3,787\t2.36%\t770.2K\t-36.48%\n#6↑5\tmeshy.ai↗\t#3,710\t1.56%\t509.7K\t+24.89%\n#7↑3\topenart.ai↗\t#4,197\t1.46%\t476K\t+14.76%\n#8↑5\tfal.ai↗\t#14,863\t1.41%\t460.4K\t+26.33%\n#9—\tturboscribe.ai↗\t#1,927\t1.38%\t449.3K\t+3.42%\n#10回归\trunwayml.com↗\t#6,484\t1.15%\t376.3K\t+34.09%\n#11↓3\tkling.ai↗\t#4,135\t1.15%\t374.1K\t-19.12%\n#12↓6\tportal.nousresearch.com↗\t—\t1.11%\t362.9K\t-37.29%\n#13新上榜\tdashboard.sellvia.com↗\t—\t1.03%\t334.8K\t+173.26%\n#14↓2\tcsfloat.com↗\t#3,702\t1%\t326.7K\t-17.31%\n#15—\tapp.gethookd.ai↗\t—\t0.9%\t293.9K\t-4.01%\n#16↑5\tarenaclub.com↗\t#27,579\t0.86%\t280.1K\t+11.58%\n#17新上榜\tportraitpics.co↗\t#25,512\t0.84%\t274.6K\t+302.22%\n#18↓4\tapp.trendtrack.io↗\t—\t0.81%\t263.1K\t-20.81%\n#19新上榜\ttripo3d.ai↗\t#5,914\t0.78%\t253.9K\t+47.57%\n#20—\thumblebundle.com↗\t#4,587\t0.73%\t239.3K\t-9.07%\n#21↑7\tapp.verticalraise.com↗\t—\t0.72%\t236.2K\t+9.73%\n#22↓6\tcults3d.com↗\t#2,556\t0.72%\t235.3K\t-18.78%\n#23↓5\tforgegui.com↗\t#53,278\t0.7%\t228.6K\t-17.48%\n#24—\tkimi.ai↗\t#3,628\t0.69%\t226.3K\t-0.94%\n#25↓8\tapp.emergent.sh↗\t—\t0.69%\t224.1K\t-19.96%\n#26新上榜\tvotremelodie.com↗\t#182,412\t0.68%",
+     "statusText": "",
+     "errorBox": "",
+     "rows": 101,
+     "rowSamples": [
+      "#1—\thiggsfield.ai↗\t#866\t6.42%\t2.09M\t-8.48%",
+      "#2↑1\televenlabs.io↗\t#1,128\t3.77%\t1.23M\t-2.41%",
+      "#3↓1\tsuno.com↗\t#445\t3.46%\t1.13M\t-16.49%",
+      "#4↑1\tpaypal.com↗\t#71\t2.51%\t818.9K\t-31.69%"
+     ]
+    },
+    "after": {
+     "remain": null
+    },
+    "ms": 5184
+   },
+   {
+    "name": "trends",
+    "url": "https://seo.web.cafe/trends/?q=ai+video+generator&geo=US&range=12m",
+    "before": {
+     "remain": null
+    },
+    "ready": true,
+    "data": {
+     "containerText": "ai video generator\n过去 12 个月 · 美国 US · 按周 · 全站共享缓存 · 2 天前取回\n0\n25\n50\n75\n100\n2025-11\n2026-01\n2026-03\n2026-06\n2026-08\n2026-11\n0~100 是相对热度（这一次查询里最高的点 = 100），不是搜索量。虚线是最后一个还没过完的周，数值只有半截，判断时不算。\n这次扣了 2 积分（曲线走共享缓存 2）　·　今天已实时抓取 28 / 50 次\n最新一波：从 2026-08-16 那一周 起来，2026-08-23 那一周 到顶（峰值 100；起来之前最高 51）。\n趋势判断\n是不是新词\n不是新词\n\n窗口开头就有热度（前三分之一最高 42），出现时间在这 12 个月之外，不算新词\n\n处在什么时期\n回落期\n\n近期均值比前一段低 37%，最新是峰值的 34%，在回落\n\n适不适合上站（只看趋势）\n谨慎\n\n热度在回落，窗口正在关上：除非回落后能稳在一个像样的量\n\n峰值 100（2026-08-23 那一周） · 最新完整的点 34 · 近期势头 -37% · 最新是峰值的 34%\n只看曲线形状，不看搜索量和竞争；判新词以 12 个月或 5 年为准，和规划师冲突时以规划师为准。\n想知道它为什么涨、周边还有哪些新词？勾选「同时看相关查询」再查一次（共享缓存里有就不另收，要实时抓取再加 4 积分）。\n看「ai video generator」的搜索量与难度\n拓出相关的词\n让 SEO Agent 一起判断\n数据明细（53 个点）\n导出 CSV\n在谷歌趋势打开 ↗",
+     "statusText": "",
+     "errorBox": "",
+     "rows": 54,
+     "rowSamples": [
+      "",
+      "",
+      "",
+      ""
+     ]
+    },
+    "after": {
+     "remain": null
+    },
+    "ms": 5617
+   },
+   {
+    "name": "dr",
+    "url": "https://seo.web.cafe/dr/",
+    "before": {
+     "remain": null
+    },
+    "ready": true,
+    "data": {
+     "containerText": "查询完成，共 2 个域名\n本次已扣 0 积分（0 个实时查、2 个命中缓存免费；每片查完结算）\n暂停\n停止\n2\n有 DR 的域名\n91.5\n平均 DR\n91.5\n中位数\n92\n最高：notion.so\n全部 2\n头部 80+ 2\n序号\t域名\tDR ↕\t档位\t数据\t\n1\tahrefs.com\t91\n\t头部\t缓存 · 今天\t详情外链价值\n2\tnotion.so\t92\n\t头部\t缓存 · 14 天前\t详情外链价值\n复制结果（域名 + DR）\n导出 CSV\n查完了。点「DR」表头按分数排序，点上面的档位只看那一档；「无数据」是 Ahrefs 确实没有这个域名的分，按 0 看。",
+     "statusText": "",
+     "errorBox": "",
+     "rows": 3,
+     "rowSamples": [
+      "序号\t域名\tDR ↕\t档位\t数据",
+      "1\tahrefs.com\t91\n\t头部\t缓存 · 今天\t详情外链价值",
+      "2\tnotion.so\t92\n\t头部\t缓存 · 14 天前\t详情外链价值"
+     ]
+    },
+    "after": {
+     "remain": null
+    },
+    "ms": 6051
+   }
+  ],
+  "C": [
+   {
+    "name": "translate",
+    "url": "https://seo.web.cafe/translate/?q=convert%20pdf%20lecture%20notes%20into%20short%20videos",
+    "before": {
+     "used": 460,
+     "limit": 500,
+     "remain": 40,
+     "tier": "VIP",
+     "login": true
+    },
+    "ready": true,
+    "data": {
+     "containers": {
+      "#result": "翻译结论：用户真实在搜的是这些词\n复制报告给 AI\n从 8 个排名页的共识里挑出，Title / H1 覆盖加倍计权；带 搜索量 徽章的词来自排名首页站点的 AITDK 流量词——真实搜索量实证；首选 = 有搜索量实证或双重证据，点「查难度」直接评估竞争强度\n首选\npdf to video\n4/8 页正文在用 · 5 页写进 Title · 3 页写进 H1 · 2 页 Description · 3 页 H2/H3 · 谷歌相关搜索命中\n查难度 →\n首选\npdf to video converter\n2/8 页正文在用 · 3 页写进 Title · 1 页写进 H1 · 1 页 Description · 1 页 H2/H3 · 谷歌相关搜索命中\n查难度 →\n推荐\nconvert pdf to video\n1/8 页正文在用 · 1 页写进 Title · 1 页 H2/H3 · 谷歌相关搜索命中\n查难度 →\n推荐\nvideo ai\n1/8 页正文在用 · 1 页 Description · 谷歌相关搜索命中\n查难度 →\n候选\nupload your pdf\n2/8 页正文在用 · 1 页 Description · 4 页 H2/H3\n查难度 →\n推荐\nnotes to video\n1/8 页正文在用 · 2 页写进 Title · 1 页 H2/H3\n查难度 →\n候选\nai video\n3/8 页正文在用 · 1 页写进 Title · 3 页 H2/H3\n查难度 →\n候选\nvideo maker\n2/8 页正文在用 · 1 页写进 Title · 1 页写进 H1 · 1 页 H2/H3\n查难度 →\n候选\npdf into a video\n2/8 页正文在用 · 2 页 H2/H3\n查难度 →\n候选\nvideo maker ai\n2/8 页正文在用\n查难度 →\n真实查询缺口：这些谷歌相关搜索还没有被上面的结论覆盖——真实用户在搜、排名页却没做透的补充方向，点击可查难度\nTurn my notes into a video free\n二轮深挖：用这 10 个词再各搜一遍 →把整个关键词簇的 SERP 并成一次大聚合\n依据明细见下方聚合榜与相关搜索。\n谷歌前 10 名结果\n这些页面是谷歌对你需求的「标准答案」——逐页提取正文并统计 1~5 词密度榜（并发 3 个，每页最长 20 秒）\n#1\nPDF to Video Converter with AI – Online Free, No Sign-up\nnotegpt.io\n✓ 1918 词\n#2\nTurn Any PDF Into AI Explainer Videos\nstudyfetch.com\n✓ 582 词\n#3\nNotes to Video - Free AI Video Lecture G"
+     },
+     "bodySlices": {
+      "推荐": "8 页正文在用 · 3 页写进 Title · 1 页写进 H1 · 1 页 Description · 1 页 H2/H3 · 谷歌相关搜索命中 | 查难度 → | 推荐 | convert pdf to video | 1/8 页正文在用 · 1 页写进 Title · 1 页 H2/H3 · 谷歌相关搜索命中 | 查难度 → | 推荐 | video ai | 1/8 页正文在用 · 1 页 Description · 谷歌相关搜索命中 | 查难度 → | 候选 | upload your pdf | 2/8 页正文在用 · 1 页 Description · 4 页 H2/H3 | 查难度 → | 推荐 | notes to video | 1/8 页正文在用 · 2 页写进 Title · 1 页 H2/H3 | 查难度 → | 候选 | ai video | 3/8 页正文在用 · 1 页写进 Title · 3 页 H2/H3 | 查难度 → | 候选 | video maker | 2/8 页正文在用 · 1 页写进 Title · 1 页写进 H1 · 1 页 H2/",
+      "关键词": "需求翻译器 | 全部工具 | SEO Agent | 关键词难度 | SEO 体检 | 原理 | FAQ | <account> | VIP | 今日剩 39 | 首页›关键词研究›需求翻译器 | API | 用 API 调用这个工具 › | NATURAL LANGUAGE → SEARCH KEYWORDS | 你的需求，用户在谷歌里是怎么搜的？ | 用一句英文描述你想做的东西（20 个单词以内），工具查询谷歌前 10 名结果、逐页提取正文统计 1~5 词密度榜，跨页聚合后结合谷歌相关搜索——把你的自然语言「翻译」成有真实搜索行为支撑的关键词。 | 翻译需求 | 第一版仅支持英文输入。每次翻译扣 1 积分（查询谷歌一次）；排名结果里的首页型站点会追加查询流量词（真实搜索量，每站 1 积分、最多 6 站、查无数据退还）；逐页分析与聚合不扣分。 | 翻译结论：用户真实在搜的是这些词 | 复制报告给 AI | 从 8 个排名页的共识里挑出，Title / H1 覆盖加倍计权；带 搜索量 徽章的词来自排名首页站点的 AITDK 流量词——真实搜索量实证；首"
+     },
+     "statusText": "第 3 步 / 共 3 步：正在跨页聚合关键词…",
+     "errorBox": ""
+    },
+    "after": {
+     "used": 461,
+     "limit": 500,
+     "remain": 39,
+     "tier": "VIP",
+     "login": true
+    },
+    "ms": 10893
+   },
+   {
+    "name": "bulk",
+    "url": "https://seo.web.cafe/bulk/",
+    "before": {
+     "used": 461,
+     "limit": 500,
+     "remain": 39,
+     "tier": "VIP",
+     "login": true
+    },
+    "waitError": "page.waitForFunction timed out after 120000ms on page p1; last URL was \"https://seo.web.cafe/bulk/?mode=paste&list=example.com%0Aexample.org",
+    "ready": false,
+    "data": {
+     "containers": {
+      "#out": "查询完成，共 2 个域名　·　可注册 0 个\n本次已扣 0 积分（0 个打了上游，2 个命中缓存免费）\n全部 2\n可注册 0\n已注册 2\n序号\t域名\t长度\t状态\t注册时间\t到期时间\t\n1\texample.com\t7\t已注册\t1995-08-14\t2027-08-13\t前世档案其他后缀\n2\texample.org\t7\t已注册\t1995-08-31\t2027-08-30\t前世档案其他后缀\n复制可注册域名（0）\n导出 CSV\n这一页没有可注册的——换一组规则再试。",
+      "#foundList": ""
+     },
+     "bodySlices": {
+      "可注册": "ENERATE · CHECK | 批量生成域名，实时查能不能注册 | 拼音、数字、字母、英文单词几本字典任意拼——双拼、三拼、多拼一次生成几百个，一口气查注册状态。可注册的高亮标出，已注册的附注册与到期时间，查完一键复制、导出 CSV。 | 字典组合（双拼 / 三拼） | 后缀扫描 | 粘贴清单 | 已经有一串域名了？直接贴。带后缀的按原样查；不带后缀的裸名字会配上下面勾选的后缀。换行、空格、逗号、URL 混排都认，一次最多 2000 个。 | 域名或名字清单 | 后缀 | 主流 | 全选 | 清空 | .com | .net | .org | .io | .co | .ai | .app | .dev | .me | .cc | .xyz | .info | .biz | 更多后缀（科技 / 中文圈 / 国别） | 将查询 2 个域名 | example.com example.org | 开始查询 | 或按 Ctrl / Cmd + Enter。每 20 个打到上游的域名 1 积分，命中缓存免费。 | 查询完成，共 2 个域名　·　可注册 0 个 | 本次已扣 0 积分（0 个打"
+     },
+     "statusText": "",
+     "errorBox": ""
+    },
+    "after": {
+     "remain": null
+    },
+    "ms": 125497
+   },
+   {
+    "name": "string",
+    "url": "https://seo.web.cafe/string/",
+    "before": {
+     "remain": null
+    },
+    "ready": false,
+    "data": {
+     "containers": {},
+     "bodySlices": {
+      "字符": "剩 39 | 首页›页面优化›文本长度计算器 | CHARS × WORDS × BYTES × TDK | 字数、字节与 TDK 长度，一眼看清 | 粘贴任意文本，实时统计字符、单词、行数、UTF-8 字节与词频；下方直接检查 Title / Description 是否在建议区间——配合 On Page SEO 体检改 TDK 时顺手好用。 | 文本统计 | 65 | 总字符 | 54 | 去空白 | 14 | 单词/字 | 1 | 行数 | 71 | UTF-8 字节 | 25 | 唯一字符 | 词频区分大小写 | 单词数口径：英文按空格分词，中日韩每个字计 1 | TDK 长度检查 | Title 标题（建议 30~60 字符，中文按 2 折算） | 44/60 字符 · 长度合适 ✓ | Description 描述（建议 70~160 字符，中文按 2 折算） | 63/160 字符 · 偏短，还能再放一个卖点 | 常用长度参考 | 超长不是「错误」，只是会被截断——重要信息放在安全区间内。 | 位置\t建议长度\t说明 | Google Title\t30~60 字符\t按像素截"
+     },
+     "statusText": "",
+     "errorBox": ""
+    },
+    "after": {
+     "remain": null
+    },
+    "ms": 2363
+   },
+   {
+    "name": "kgr",
+    "url": "https://seo.web.cafe/kgr/",
+    "before": {
+     "remain": null
+    },
+    "ready": true,
+    "data": {
+     "containers": {
+      "#result": "KGR 黄金关键词比率\n0.120\nKGR = 120 / 1000 = 0.120\n低竞争——按 KGR 打法这是黄金词，尽快做页面。\n平均每个 intitle 页面分到的月搜索：8.3\nEKGR 难度修正版\n0.156\nEKGR = 120 × 1.30 / 1000 = 0.156\n中等——评估需要投入的内容与外链资源后再动手。\n难度系数 ×1.30，KD 档位：中\nKDROI 外链投入回报\n-69.2%\n所需外链 36 条 → 投入 $3,951；年收益上限 $1,217（$0.1/次点击）\n回报覆盖不了外链成本——除非有战略意义，否则放弃。\n日收益上限 $3.33 · 月收益上限 $101 · 回本约需 1186 天\nKDROI 基于三个假设：① 外链成本阶梯计价——前 10 条 $100/条，第 11~50 条每条加价 1%，第 51~200 条每条加价 1.5%，200 条以上每条加价 2%；② 每次点击产生 $0.1 收益；③ 你能拿到该词的全部点击。第三条偏乐观——我们宁可先把上限算出来。"
+     },
+     "bodySlices": {
+      "KGR": "值评估 | 全部工具 | SEO Agent | 关键词难度 | 需求翻译器 | SERP 解密 | 指标说明 | FAQ | <account> | VIP | 今日剩 39 | 首页›关键词研究›关键词价值评估(KGR) | KGR × EKGR × KDROI | 这个关键词，值不值得做？ | 输入 intitle 结果数、月搜索量与关键词难度（KD），一次算出三个判断指标：KGR 看竞争缺口，EKGR 加上难度修正，KDROI 把外链投入折算成回报率——新站找词，先过这三关。 | intitle 结果数 | 谷歌搜 intitle:\"关键词\"（加英文引号），结果页顶部的结果总数 | 月搜索量 | 该词的月均搜索次数（Ahrefs / GKP 等口径均可） | 关键词难度 KD（0-100） | 没有 KD？用本站关键词难度估算免费查一个 | 计算三项指标 | KGR 黄金关键词比率 | 0.120 | KGR = 120 / 1000 = 0.120 | 低竞争——按 KGR 打法这是黄金词，尽快做页面。 | 平均每个 intitle 页面分到的月搜索：8.3 | EKGR 难度修正版 |"
+     },
+     "statusText": "",
+     "errorBox": ""
+    },
+    "after": {
+     "remain": null
+    },
+    "ms": 3063
+   },
+   {
+    "name": "money",
+    "url": "https://seo.web.cafe/money/",
+    "before": {
+     "remain": null
+    },
+    "ready": true,
+    "data": {
+     "containers": {
+      "#report": "要达成月收入 $1,000：用 1 个站、每站主攻 1 个词，每天需要赚 $33.33。按每位访客价值 $0.1100（广告 $0.0100 + SaaS $0.1000）计算，全网每天要有 303 个访客，即每站 303 UV / 606 PV。目标排名第 3 名（CTR 10.2%），则每个词需要日搜索量 2,971。按 KD 30 计，每站约需 36 个引荐域名，全部站外链投入约 $3,951；12 个月预计收入 $12,000，ROI 3.04x。"
+     },
+     "bodySlices": {
+      "目标": "收入目标拆解 | 全部工具 | SEO Agent | 关键词难度 | 关键词价值 | Stripe 榜 | 模型说明 | FAQ | <account> | VIP | 今日剩 39 | 首页›增长与变现›收入目标拆解计算器 | REVENUE → TRAFFIC → KEYWORDS → BUDGET | 想月入 $3000，每天到底要做到多少？ | 由哥飞制作：输入目标月收入与变现参数，一步步反推——需要多少日访客、摊到每个词要多少搜索量、要建多少条外链、花多少预算，最后给出 ROI 和风险提示。所有数字实时联动，拖着参数找可行解。 | 目标与站点结构 | 目标月收入（美元） | − | ＋ | 网站数量 | − | ＋ | 目标收入均摊到每个站 | 每站主攻关键词数 | − | ＋ | 每站流量均摊到每个词 | 变现与竞争参数 | 目标排名位置（1-10） | − | ＋ | 第 3 名的预期点击率：10.2% | 广告 RPM：每千 PV 收入（美元） | − | ＋ | AdSense 出海站常见 $1~$20 | SaaS/联盟：每千 UV 收入（美元） | − | ＋ | 纯广"
+     },
+     "statusText": "",
+     "errorBox": ""
+    },
+    "after": {
+     "remain": null
+    },
+    "ms": 2851
+   },
+   {
+    "name": "cashflow",
+    "url": "https://seo.web.cafe/cashflow/",
+    "before": {
+     "remain": null
+    },
+    "ready": true,
+    "data": {
+     "containers": {
+      "#results": "播放时间，看钱怎样流动\n播放\n从第 1 天重播\n播放速度\n慢速 · 2 秒 / 天\n正常 · 1 秒 / 天\n快速 · 0.5 秒 / 天\n点击播放，从第 1 天开始。\n第 30 天\n早上现金\n¥11,000.00\n−\n今日投放\n¥1,000.00\n+\n今日回款\n¥2,000.00\n=\n日末现金\n¥12,000.00\n\n每天先投放，再收款；下方曲线随日期逐日展开。可暂停或拖动时间轴查看任意一天。\n\n日末可用现金\n¥12,000.00\n累计投放\n¥30,000.00\n累计到账\n¥32,000.00\n已投用户的待回款（假设）\n¥28,000.00\n\n这一天，早上有 ¥11,000.00，先投放 ¥1,000.00，晚上收到此前各批用户的回款 ¥2,000.00，所以日末可用现金为 ¥12,000.00。今天到账的钱，明天才会再次投入。\n\n截至第 30 天，已回款 − 已投放 = ¥2,000.00。如果现在停止投放，并且后续回款全部兑现，再等最多 19 天，最终现金将是 ¥40,000.00，相对初始本金的模拟净收益为 ¥30,000.00。未到账的钱不算可用现金。\n\n在完整 60 天模拟中，日末现金首次恢复到本金：第 28 天。 这表示现金已够拿回本金，不代表已提走本金；模型仍继续投放。预算未能花满的天数：0 天。\n\n同一笔本金，三条现金曲线\n固定预算\n回款加投\n周期减半 + 回款加投\n0\n6.0万\n11.9万\n17.9万\n23.8万\n第 0 天\n第 30 天\n第 60 天\n\n同样从 ¥10,000.00 出发，第 30 天：固定预算剩 ¥12,000.00；回款加投剩 ¥3,000.00；回款加投且周期减半剩 ¥18,000.00。三条线都按日末现金比较；加投期间现金可能更少，因为更多钱还在回款途中。\n\n紫线只把回款时间从 10 / 20 天缩短为 5 / 10 天，两笔回款比例保持不变。\n\n灰色虚线是起始本金。图表采用线性坐标；差距大时，可缩短模拟天数观察早期变化。\n\n当前投放方式：钱花出去了，回来了吗？\n累计投放\n累计回款\n0\n2.3万\n4.6万\n6.9万\n9.2万\n第 0 天\n第 30 天\n第 60 天\n展开每日流水，逐天对账",
+      "#calculationStatus": "已按当前参数计算。"
+     },
+     "bodySlices": {
+      "回款": "懂模型 | <account> | VIP | 今日剩 39 | 首页›增长与变现›投流资金周转计算器 | AD SPEND → CASH FLOW | 让一万元跑起来。 | 同样的本金，同样的用户回款。钱早回来几天，能多跑几轮？换几个数字，看看你的小生意会长成什么样。 | 先搭一个你的小生意 | 纯浏览器模拟，免费、无需登录。修改下方数字后，点击「重新计算」更新模型。 | ☕ 原文的一万元 | ⚡ 回款快一倍 | 🐢 回款慢一倍 | 🕳 每轮都亏一点 | 起始本金 | 元 | 起步日预算 | 元 | 模拟多久 | 天 | 第一笔回款 | 投放后的第几天 | 天 | 回收该批投放额的 | % | 第二笔回款 | 投放后的第几天 | 天 | 额外回收该批投放额的 | % | 100% + 100% 表示：每投 1,000 元，这批用户合计付 2,000 元。第二笔是新增回款，不是累计回款。 | 我想这样投 | 固定预算：每天最多投起步日预算 | 回款加投：昨天回得多，今天就多投 | 回款加投的当日预算 = 起步日预算与昨日回款中的较大值。两种方式都只花早上已有的钱，余额不足就少投，不借款。 | "
+     },
+     "statusText": "",
+     "errorBox": ""
+    },
+    "after": {
+     "remain": null
+    },
+    "ms": 3048
+   },
+   {
+    "name": "influencer",
+    "url": "https://seo.web.cafe/influencer/",
+    "before": {
+     "remain": null
+    },
+    "ready": true,
+    "data": {
+     "containers": {
+      "#result": "评估结果 良好\n预计总播放\n88,235\n合理报价\n$441\n每千次播放成本\n$5.67\n报价 / 合理价\n1.13x\n每千次播放成本 $5.67，在 $5~$7.5 的良好区间——大概率不亏，值得合作；能顺口砍一点更好。\n月度播放量衰减预测\n30,000\nM1\nM2\nM3\nM4\nM5\nM6"
+     },
+     "bodySlices": {
+      "报价": "红人报价评估 | 全部工具 | SEO Agent | 收入拆解 | 关键词难度 | 模型说明 | FAQ | <account> | VIP | 今日剩 39 | 首页›增长与变现›YouTube 红人报价评估 | VIEWS × DECAY × CPM | 红人开的这个价，该不该接？ | 别用「日均播放 × 天数」骗自己——视频播放量是会衰减的。输入频道近 30 天日均播放和对方报价，按真实衰减模型估算全生命周期总播放，折算每千次播放成本，直接告诉你：接、砍价，还是换人。 | 输入参数 | 近 30 天日均播放量 | 取该频道最近 30 天总播放 ÷ 30（用 vidIQ / Social Blade 查） | 红人报价（美元） | 每千次播放的预期收益（美元） | 默认 $5 CPM——按你产品的转化价值调整 | 视频生命周期（天） | 月度播放衰减率 | 20% · 慢衰减（常青内容） | 30% · 中等衰减（默认） | 40% · 快衰减 | 50% · 高衰减（时效内容） | 评估这个报价 | 评估结果 良好 | 预计总播放 | 88,23"
+     },
+     "statusText": "",
+     "errorBox": ""
+    },
+    "after": {
+     "remain": null
+    },
+    "ms": 2856
+   },
+   {
+    "name": "email",
+    "url": "https://seo.web.cafe/email/",
+    "before": {
+     "remain": null
+    },
+    "waitError": "page.waitForFunction timed out after 15000ms on page p1; last URL was \"https://seo.web.cafe/email/\"; last title was \"邮箱提取器 — 从任意文本批量提取邮箱地址\".",
+    "ready": false,
+    "data": {
+     "containers": {
+      "#output": "",
+      "#stats": "找到 3 个邮箱（去重前 4 个）"
+     },
+     "bodySlices": {
+      "邮箱": "邮箱提取器 | 全部工具 | SEO Agent | 文本长度 | SEO 体检 | <account> | VIP | 今日剩 39 | 首页›增长与变现›邮箱提取器 | EXTRACT × DEDUPE × COPY | 把邮箱从一堆文本里捞出来 | 粘贴网页、名单或任意文本，实时提取全部邮箱地址并自动去重——外链 Outreach 整理联系人时顺手用。纯本地运行，内容不会上传。 | 输入文本 | 提取结果 | 找到 3 个邮箱（去重前 4 个） | 每行一个 | 逗号分隔 | 只要域名（去重） | 复制结果 | 清空 | 相关工具推荐 | AdSense 过审预检 | 对照官方审核要求 73 项体检 + 修复清单 | 投流资金周转计算器 | 让一万元跑起来，看回款速度怎样改变收益 | 收入目标拆解计算器 | 目标月收入反推流量、词量与外链预算 | YouTube 红人报价评估 | 按日均播放折算成本，报价该接该砍 | Stripe 引荐流量榜 | 谁在给收银台送付费流量，月度榜单 | 全部工具开放 API（HTTP / MCP / Skills）SE"
+     },
+     "statusText": "",
+     "errorBox": ""
+    },
+    "after": {
+     "remain": null
+    },
+    "ms": 17610
+   },
+   {
+    "name": "traffic",
+    "url": "https://seo.web.cafe/traffic/",
+    "before": {
+     "remain": null
+    },
+    "ready": true,
+    "data": {
+     "containers": {
+      "#results": "demo.com\n上线 2026-01-21\n总访问 10,346\n峰值 219\n日均 103\n关键节点 7\n上线 2026-01-21\n首次出现访问量\n稳定期 2026-01-21 ~ 2026-02-14\n稳定 25 天，范围 4~5，平均 5\n稳定期 2026-02-15 ~ 2026-03-11\n稳定 25 天，范围 109~131，平均 120\n上台阶 2026-02-15\n流量水位从 5 提升至 120\n稳定期 2026-03-12 ~ 2026-03-31\n稳定 20 天，范围 54~65，平均 59\n稳定期 2026-04-01 ~ 2026-04-30\n稳定 30 天，范围 180~219，平均 202\n上台阶 2026-04-01\n流量水位从 59 提升至 202\n219\n0\n01-21\n01-31\n02-10\n02-20\n03-02\n03-12\n03-22\n04-01\n04-11\n04-21\ndemo.com/tool\n上线 2026-01-21\n总访问 2,277\n峰值 49\n日均 23\n关键节点 6\n上线 2026-01-21\n首次出现访问量\n流量低谷期 2026-02-06 ~ 2026-02-10\n连续 5 天低迷，最低 1\n稳定期 2026-02-15 ~ 2026-03-11\n稳定 25 天，范围 27~32，平均 29\n稳定期 2026-03-12 ~ 2026-03-31\n稳定 20 天，范围 9~10，平均 10\n稳定期 2026-04-01 ~ 2026-04-30\n稳定 30 天，范围 41~49，平均 45\n上台阶 2026-04-01\n流量水位从 10 提升至 45\n49\n0\n01-21\n01-31\n02-10\n02-20\n03-02\n03-12\n03-22\n04-01\n04-11\n04-21\ndemo.com/blog\n上线 2026-02-15\n总访问 508\n峰值 13\n日均 5\n关键节点 5\n上线 2026-02-15\n首次出现访问量\n稳定期 2026-02-15 ~ 2026-03-11\n稳定 25 天，范围 4~5，平均 4\n历史低谷 2026-03-12\n最低访问量 2\n稳定期 2026-04-01 ~ 2026-04-30\n稳定 30 天，范围 10~13，平均 11\n上台阶 2026-04-01\n流量水位从 4 提升至 11\n13\n0\n01-21\n01-31\n02-10\n02-20\n03-02\n03-12\n03-22\n04-01\n04-11\n04-21"
+     },
+     "bodySlices": {
+      "上线": "析器 | CSV × KEY EVENTS × TIMELINE | 把流量数字，读成看得懂的故事 | 上传「日期 × 各 URL 访问量」的 CSV，自动识别每个页面的上线时间、流量爆发、骤降、上下台阶、持续增长/下降、稳定期与低谷期——竞品或自家站的每一段起伏，一眼看清发生在哪天。 | 📊 点击或拖拽上传 CSV 文件 | 纯本地解析，文件不会离开你的浏览器 | CSV 格式：第一列为日期（列名 Date，格式 2026-01-31 等可被解析的日期）， 其余每列是一个 URL，单元格为该 URL 当天的访问量。示例表头：Date,https://a.com/,https://a.com/tool/。 GSC「效果 → 按网页 + 按日期」导出后透视即可得到此格式。 | 📈 共分析 3 个 URL，其中 3 个有访问量 · 分析起点 2026-01-21（全站首次有量日）· 按上线时间排序 | demo.com | 上线 2026-01-21 | 总访问 10,346 | 峰值 219 | 日均 103 | 关键节点 7 | 上线 2026-01-21 | 首次出现访问量 | "
+     },
+     "statusText": "",
+     "errorBox": ""
+    },
+    "after": {
+     "remain": null
+    },
+    "ms": 2738
+   },
+   {
+    "name": "domain",
+    "url": "https://seo.web.cafe/domain/",
+    "before": {
+     "remain": null
+    },
+    "ready": true,
+    "data": {
+     "containers": {
+      "body": "网站起名 AI\n全部工具\nSEO Agent\n域名批量查询\n域名前世档案\n网站价值估算\n查什么\nFAQ\n<account>\nVIP\n今日剩 39\n首页›域名与网站尽调›网站起名 AI\nAPI\n用 API 调用这个工具 ›\nDOMAIN · NAMING\n描述你的产品，扫出能注册的好名字\n\n一句话说清产品做什么、面向哪个市场、想融入什么含义。AI 生成一批品牌名，并逐个核查 后缀能不能注册、谷歌会不会把它当错字纠正掉、被占的域名是不是空壳 ——直接告诉你哪些真正能用。\n\n你的产品是做什么的？\n 开始起名 →\n\n起名在 SEO Agent 里进行，那里还能顺手查关键词难度、域名流量、页面体检。按实际查询量计积分。\n\n一个 AI 图片/视频/音乐工具站，名字好读、好记，融入 image/video/music 含义\nAI 简历生成器，面向欧美求职者，专业感强、好记\n宠物健康追踪 App，温暖友好，适合做 .com 品牌\n面向日本市场的在线记账工具，名字要日本人读得顺\n它会替你查什么\n\n起名不难，难的是起完之后确认这个名字真的能用。四件事一次查全：\n\n能不能注册\n\n候选名逐个后缀实时核查注册状态，可注册的高亮标出。名字再好听，注册不上等于没有。\n\n谷歌会不会纠正它\n\n生造词最大的坑：搜索时被当成拼写错误纠正成别的词，用户永远搜不到你。这一条会单独标红劝退。\n\n被占的那个是不是空壳\n\n主力后缀被占时看占用者的 DR、月访问量与注册年份。没数据的多半是停放/抢注，仍有拿下的机会。\n\n目标市场读不读得出来\n\n按目标语言音系调整拼写：韩语没有 v 音、日语少有独立 l 音、阿拉伯语没有 p，写法要贴合当地实际发音。\n\n常见问题\n是怎么起名的？\n为什么起名要考虑目标市场的发音？\n起好的名字会自动检查能不能注册吗？\n域名已经被注册了，怎么判断还能不能用？\n「谷歌会把名字纠正掉」是什么意思？\n要花多少积分？\n相关工具推荐\n站点出词\n任意网站靠哪些词吃流量，位置、流量、落地页全列出\n域名批量查询\n双拼/三拼/字典组合批量生成，实时查能否注册\n域名前世档案\nArchive 快照还原域名几段前世与改版史\n网站价值估算器\n实时流量与行情，估月收入与整站价值\n外链价值计算器\n站点成色 + 8 万条行情，该买该跑一次算清\n\n这个工具也能用开放 API 调用（HTTP / MCP / 命令行 / Skills），接口：brand_naming、domain_review\n\n全部工具开放 API（HTTP / MCP / Skills）SEO 工具导航\n\n哥飞的 SEO 工具箱 · 全部免费使用 · 起名与核查在 SEO Agent 里进行"
+     },
+     "bodySlices": {
+      "起名": "网站起名 AI | 全部工具 | SEO Agent | 域名批量查询 | 域名前世档案 | 网站价值估算 | 查什么 | FAQ | <account> | VIP | 今日剩 39 | 首页›域名与网站尽调›网站起名 AI | API | 用 API 调用这个工具 › | DOMAIN · NAMING | 描述你的产品，扫出能注册的好名字 | 一句话说清产品做什么、面向哪个市场、想融入什么含义。AI 生成一批品牌名，并逐个核查 后缀能不能注册、谷歌会不会把它当错字纠正掉、被占的域名是不是空壳 ——直接告诉你哪些真正能用。 | 你的产品是做什么的？ |  开始起名 → | 起名在 SEO Agent 里进行，那里还能顺手查关键词难度、域名流量、页面体检。按实际查询量计积分。 | 一个 AI 图片/视频/音乐工具站，名字好读、好记，融入 image/video/music 含义 | AI 简历生成器，面向欧美求职者，专业感强、好记 | 宠物健康追踪 App，温暖友好，适合做 .com 品牌 | 面向日本市场的在线记账工具，名"
+     },
+     "statusText": "",
+     "errorBox": ""
+    },
+    "after": {
+     "used": 461,
+     "limit": 500,
+     "remain": 39,
+     "tier": "VIP",
+     "login": true
+    },
+    "ms": 2219
+   },
+   {
+    "name": "mine",
+    "url": "https://seo.web.cafe/mine/",
+    "before": {
+     "used": 461,
+     "limit": 500,
+     "remain": 39,
+     "tier": "VIP",
+     "login": true
+    },
+    "ready": true,
+    "data": {
+     "containers": {
+      "#q": ""
+     },
+     "bodySlices": {
+      "挖掘": "需求挖掘机 | 全部工具 | SEO Agent | 需求翻译器 | 关键词难度 | 原理 | FAQ | <account> | VIP | 今日剩 39 | 首页›关键词研究›需求挖掘机 | ONE SEED → A WHOLE NICHE | 一个词或一个网址，挖出整个赛道 | 输入关键词或竞品网址，工具自动搜索谷歌（剔除 Reddit / YouTube / 应用商店等大站）、推断每个排名页在做什么词、顺着外链找同类站点、查询每个域名的真实流量词——滚雪球扩散最多 3 轮，输出聚类后的关键词簇与同类网站清单。 | 开始挖掘 | 积分消耗 = 谷歌搜索次数 + 同类站数量（每站 1 积分查流量/DR/域龄，查无数据退还）；页面分析、算 KD（复用已抓的谷歌结果）与报告免费。挖到的词自动算难度找蓝海词（有量、KD 低），同类站标注潜力股（新域名低 DR 却高流量）。挖掘结果自动保存，同一种子 7 天内重挖直接调出报告。 | 它是怎么挖的 | 有关键词就去搜索得到网页，有网页就去推断关键词、查域名流"
+     },
+     "statusText": "",
+     "errorBox": ""
+    },
+    "after": {
+     "used": 461,
+     "limit": 500,
+     "remain": 39,
+     "tier": "VIP",
+     "login": true
+    },
+    "ms": 2253
+   },
+   {
+    "name": "chat",
+    "url": "https://seo.web.cafe/chat/",
+    "before": {
+     "used": 461,
+     "limit": 500,
+     "remain": 39,
+     "tier": "VIP",
+     "login": true
+    },
+    "ready": true,
+    "data": {
+     "containers": {
+      "#q": ""
+     },
+     "bodySlices": {
+      "Agent": "哥飞 SEO Agent | ‹ | ＋ 新对话 | 置顶 | qbotoexcel-2 | ★ | tanship | ★ | Schedule-Builder | ★ | qbotoexcel | 已分享 | ★ | 今天 | 你平时怎么发现「刚有搜索量、但还没有人做站」的新词？给一套可执行的具体流程：每天 | 昨天 | `png editor ai`，这个关键词能做吗？你帮我分析一下。这是新需求啊， | ai ohto figure，帮我分析一下这个关键词。看一下这个关键词是新词吗？ | tsunami video ai，帮我分析一下这个词是新词吗？可以做吗？ | mha art ai，帮我分析一下这个关键词可以做吗？ | ai dj drop generator，帮我分析一下这个关键词能做吗？ | `remove watermark`，分析一下这个关键词。 | 30 天内 | 什么是sitelinks？ | 怎么评估一个网站的收入有多少？ | split image 帮我分析一下这个关键词。 | ``` unblur image 10万"
+     },
+     "statusText": "",
+     "errorBox": ""
+    },
+    "after": {
+     "used": 461,
+     "limit": 500,
+     "remain": 39,
+     "tier": "VIP",
+     "login": true
+    },
+    "ms": 2929
+   }
+  ],
+  "D": [
+   {
+    "name": "mine",
+    "before": {
+     "remain": 39,
+     "src": "header"
+    },
+    "ready": true,
+    "data": {
+     "result": "第 1 轮\n本轮完成 · 累计 29 个相关关键词、10 个同类网站，命中缓存 4 个站（未扣费）\nconvert pdf to video ✓ 8 个可用结果（剔大站 2）\n关键词池\n滚雪球累积的全部候选词：带 搜索量 徽章的来自 AITDK 流量词（真实搜索量实证）；「低相关」= 未过相关性闸门，保留展示但不扩散\n关键词\t搜索量/月\tKD\tCPC\t来源\t相关度\t轮\t状态\t\nfree ai video generator251.1K/月\t251.1K\t—\t$0.7\t流量词\t75%\tR1\t待扩散\t查难度 →\nai video generator free159.8K/月\t159.8K\t—\t$0.47\t流量词\t75%\tR1\t待扩散\t查难度 →\nvideo to transcript59.7K/月\t59.7K\t—\t$0.64\t流量词\t50%\tR1\t待扩散\t查难度 →\nvideo resizer22.7K/月\t22.7K\t—\t$0.4\t流量词\t50%\tR1\t待扩散\t查难度 →\nresize video21.5K/月\t21.5K\t—\t$0.29\t流量词\t50%\tR1\t待扩散\t查难度 →\nrotate video7.3K/月\t7.3K\t—\t$0.5\t流量词\t50%\tR1\t待扩散\t查难度 →\nmerge video3.3K/月\t3.3K\t—\t$0.2\t流量词\t50%\tR1\t待扩散\t查难度 →\npsp video converter1.3K/月\t1.3K\t—\t$2.33\t流量词\t67%\tR1\t待扩散\t查难度 →\npdf video to mp4200/月\t200\t—\t—\t流量词\t67%\tR1\t待扩散\t查难度 →\nconvert pdf to video\t—\t—\t—\t种子\t100%\tR1\t已搜索\t查难度 →\npdf to video converter\t—\t—\t—\t排名页\t100%\tR1\t待扩散\t查难度 →\nai video\t—\t—\t—\t排名页\t100%\tR1\t待扩散\t查难度 →\npdf to video\t—\t—\t—\t排名页\t100%\tR1\t待扩散\t查难度 →\nai pdf to video\t—\t—\t—\t排名页\t100%\tR1\t待扩散\t查难度 →\naudio converter\t—\t—\t—\t外链页\t100%\tR1\t待扩散\t查难度 →\nconvert your video\t—\t—\t—\t外链页\t100%\tR1\t待扩散\t查难度 →\nFree convert pdf to video\t—\t—\t—\t相关搜索\t75%\tR1\t待扩散\t查难度 →\nConvert PDF to video AI\t—\t—\t—\t相关搜索\t75%\tR1\t待扩散\t查难度 →\nConvert pdf to video online\t—\t—\t—\t相关搜索\t75%\tR1\t待扩散\t查难度 →\nConvert PDF to ",
+     "status": "第 1 轮：正在查询 10 个域名的流量与流量词…",
+     "costs": [],
+     "buttons": [
+      "复制专属链接",
+      "只复制 ID",
+      "⋯",
+      "开始挖掘",
+      "蓝海分析：算 9 个词的 KD →",
+      "继续第 2 轮 →",
+      "到此为止，生成报告",
+      "确认，开跑",
+      "取消"
+     ]
+    },
+    "after": {
+     "remain": 39,
+     "src": "header"
+    },
+    "ms": 19176
+   },
+   {
+    "name": "chat",
+    "before": {
+     "remain": 39,
+     "src": "header"
+    },
+    "ready": true,
+    "data": {
+     "messages": [
+      {
+       "cls": "msg user",
+       "text": "photoroom.com 这个站是什么水平？一句话说结论。"
+      },
+      {
+       "cls": "msg ai",
+       "text": "哥飞 SEO AGENT\n调查过程 · 查了 1 步（点开看）\n\n结论：photoroom.com 是 AI 修图、去背景这个方向的全球头部站。SimilarWeb 口径 2026 年 9 月的月访问量为 1874 万，DR 为 79，由品牌和一批大搜索量的非品牌词共同支撑，并非依靠单一流量入口。\n\n依据（均为 SimilarWeb 口径，数据截至 2026-09）\n\n体量：月访问 1874 万；月走势为 7 月 2054 万 → 8 月 2014 万 → 9 月 1874 万，环比 -7%，属于高位小幅回落。\n渠道：自然搜索 42.8%、直接访问 41%、社媒 7.7%、外链引荐 4.8%、付费流量仅 3.1%，这说明它的流量主要不靠购买。\n地区：印度 14.5%、俄罗斯 7.4%、巴西 6.6%、美国 6.2%，流量重心在新兴市场而不是美国（所以看它的词库要用印度口径，用美国口径会显得“没什么量”）。\n词：品牌词 photoroom 月搜约 59.3 万；非品牌核心词 remove background 月搜约 213 万、coupe 到站约 30 万；remove bg 月搜约 291 万、coupe 到站约 29 万；西语 quitar fondo 月搜约 107 万、coupe 到站约 29 万。这说明它没有只依赖品牌词，泛需求词排名也靠前。\n用户行为：跳出率 58.7%、停留 206 秒、人均 2.9 页，属于工具类站的健康水平；AI 引荐流量中 ChatGPT 占 58.8%、Gemini 20.9%。\n\n建议：如果把它当作对标站看，重点应放在两件事上：它靠多语言（西语词吃 28 万流量）把英文站的流量翻了倍，以及去背景这类大搜索量词它敢正面竞争，自己则可以做更细的使用场景；它最近的 -7% 值得关注，可以先观察下一个月的数字是不是季节性回落。\n\n需要我拆它具体靠哪些页面和词吃流量，或者拉它搜索侧逐月起来的时间线吗？\n\n复制本段"
+      }
+     ],
+     "badge": "今日剩 29",
+     "credits": [
+      "消耗 3 积分"
+     ],
+     "logTail": "photoroom.com 这个站是什么水平？一句话说结论。\n\n哥飞 SEO AGENT\n调查过程 · 查了 1 步（点开看）\n\n结论：photoroom.com 是 AI 修图、去背景这个方向的全球头部站。SimilarWeb 口径 2026 年 9 月的月访问量为 1874 万，DR 为 79，由品牌和一批大搜索量的非品牌词共同支撑，并非依靠单一流量入口。\n\n依据（均为 SimilarWeb 口径，数据截至 2026-09）\n\n体量：月访问 1874 万；月走势为 7 月 2054 万 → 8 月 2014 万 → 9 月 1874 万，环比 -7%，属于高位小幅回落。\n渠道：自然搜索 42.8%、直接访问 41%、社媒 7.7%、外链引荐 4.8%、付费流量仅 3.1%，这说明它的流量主要不靠购买。\n地区：印度 14.5%、俄罗斯 7.4%、巴西 6.6%、美国 6.2%，流量重心在新兴市场而不是美国（所以看它的词库要用印度口径，用美国口径会显得“没什么量”）。\n词：品牌词 photoroom 月搜约 59.3 万；非品牌核心词 remove background 月搜约 213 万、coupe 到站约 30 万；remove bg 月搜约 291 万、coupe 到站约 29 万；西语 quitar fondo 月搜约 107 万、coupe 到站约 29 万。这说明它没有只依赖品牌词，泛需求词排名也靠前。\n用户行为：跳出率 58.7%、停留 206 秒、人均 2.9 页，属于工具类站的健康水平；AI 引荐流量中 ChatGPT 占 58.8%、Gemini 20.9%。\n\n建议：如果把它当作对标站看，重点应放在两件事上：它靠多语言（西语词吃 28 万流量）把英文站的流量翻了倍，以及去背景这类大搜索量词它敢正面竞争，自己则可以做更细的使用场景；它最近的 -7% 值得关注，可以先观察下一个月的数字是不是季节性回落。\n\n需要我拆它具体靠哪些页面和词吃流量，或者拉它搜索侧逐月起来的时间线吗？\n\n复制本段"
+    },
+    "after": {
+     "remain": 29,
+     "src": "header"
+    },
+    "ms": 23325
+   }
+  ],
+  "e2e-1": {
+   "startedAt": "2026-11-08T13:12:31.350Z",
+   "steps": [
+    {
+     "step": "ideas",
+     "url": "https://seo.web.cafe/ideas/?q=pdf+to+video&gl=us",
+     "rows": 100,
+     "ok": true
+    }
+   ],
+   "quota": {
+    "before": 29,
+    "after": 18
+   },
+   "candidates": [
+    "i love pdf",
+    "pdf merge"
+   ],
+   "kd": [
+    {
+     "keyword": "i love pdf",
+     "before": 19,
+     "data": {
+      "score": "44.5",
+      "level": "中等 · 品牌词",
+      "kwstats": "月搜索量（12 个月均值）：903.9 万 · 快速上升期 ↑",
+      "budget": "进入前十的链接预算（经验值）：约 50–100 个引用域（中值 70）；目录/收录型外链为主时约 170–410 个。对应域名权重量级约 DR 30。按 Ahrefs 官方 KD→引用域曲线由难度分 44.5 插值（该口径为进入前十所需）。现实对照：前十中最弱的稳定首页为 ilovepdf.en.softonic.com（DR 86）。",
+      "reasons": "品牌词口径：难度估算为 44.5/100（中等）。该分数衡量的是第三方以衍生内容（alternative / review / vs / 教程等）进入此 SERP 的难度，而非与品牌正面争夺主词 —— 常规口径下此词为 79.4/100（困难），但那是一场不该打也打不赢的仗，仅列作对照。\n品牌词判定：第 1 名 ilovepdf.com 是与关键词同名的官方域名首页，ilovepdf.com 是全 SERP 唯一带 Sitelinks 的头部结果（多个结果同时带的是 mini sitelinks、不算数；唯一且居首的站点链接组是较强的导航意图信号），且前十出现 2 个平台型结果（play.google.com、youtube.com）—— 典型的品牌/导航词 SERP：品牌本尊受导航意图保护几乎不可撼动，平台页（应用商店/评测/视频）也不是可正面竞争的对手。\n剔除品牌本尊与平台生态页（共 3 个固定位）后，可竞争位仅 3 个：第 3 名 ilovepdf.com.cn（DR 0，内页，域名 5.9 年，月流量 35.0 万、搜索占比 90%，此词正是其主力流量词）、第 5 名 microsoft.com（DR 96，内页，域名 35.5 年，月流量 11.6 亿）、第 6 名 ilovepdf.en.softonic.com（DR 86，首页，域名 26.8 年，此词正是其主力流量词） —— 这些才是衍生内容真正要对位的对手。\n趋势信号：ilovepdf.com 当月从该词获得约 1065.1 万 流量，超过该词 12 个月平均搜索量（903.9 万）—— 品牌处于快速上升期，衍生词流量水位还在上涨，越早布局价值越大。（-3）\n该词月搜索量约 903.9 万，衍生词（alternative / review / vs 竞品 / coupon）的流量天花板随品牌热度同步抬升。\n盘面实测：可竞争位里最弱的是第 3 名 ilovepdf.com.cn（DR 0，按 DR 折算约 3 个引用域），这是真实做到过的门槛。衍生内容进入此 SERP 的链接预算（曲线口径）：约 50–",
+      "dataRows": 6,
+      "url": "https://seo.web.cafe/kd/?keyword=i%20love%20pdf&gl=us"
+     },
+     "ok": true,
+     "ms": 3369,
+     "after": 19
+    },
+    {
+     "keyword": "pdf merge",
+     "before": 19,
+     "data": {
+      "score": "59.7",
+      "level": "中等",
+      "kwstats": null,
+      "budget": "进入前十的链接预算（经验值）：约 90–190 个引用域（中值 130）；目录/收录型外链为主时约 320–770 个。对应域名权重量级约 DR 36。按 Ahrefs 官方 KD→引用域曲线由难度分 59.7 插值（该口径为进入前十所需）。现实对照：盘面最弱结果为 drawboard.com（DR 54，内页）。",
+      "reasons": "综合 Top10 结果的位置加权竞争强度（首页全额、普通内页 45% 折算、专门经营页面 65% 折算），关键词难度估算为 59.7/100（中等）。\n前 10 名全部是内页排名，且盘面存在外链与权重相对薄弱的内容页占位（如第 5 名 drawboard.com，难度贡献仅 37.9）—— 没有人押上首页经营这个词，用专业内容页（或聚焦型首页）有结构性的进入机会。（-4）\n10/10 个结果是专门为这个词制作的页面（标题或主力流量词直接命中），多个站点重兵正面争夺 —— 这不是\"大站顺路排名\"的机会盘面，而是被正面争夺的红海词。（+10）\n前十中 10 个有关键词数据的域名，主力流量词均不包含此词，占位者都不是专门为这个词而来。（-4）\n提示：未能从排名站点的主力流量词中取得该词搜索量，无法做体量判断 —— 评估性价比前请自行核对月搜索量（难度合适但体量过小的词同样不值得做）。\n盘面实测：最弱的占位者是第 5 名 drawboard.com（DR 54，按 DR 折算约 855 个引用域）—— 这是这个盘面上真实做到过的门槛，比下面的曲线值更该信。进入前十的链接预算（曲线口径）：约 90–190 个引用域（中值 130，按 Ahrefs 官方 KD→引用域曲线由难度分 59.7 插值（该口径为进入前十所需）。现实对照：盘面最弱结果为 drawboard.com（DR 54，内页））。若以目录/收录型外链为主（dofollow 占比低，AI 工具站常见打法），需放大到约 320–770 个。对应的域名权重量级约为 DR 36。此为量级参考，非精确值。",
+      "dataRows": 10,
+      "url": "https://seo.web.cafe/kd/?keyword=pdf%20merge&gl=us"
+     },
+     "ok": true,
+     "ms": 6582,
+     "after": 18
+    }
+   ],
+   "finishedAt": "2026-11-08T13:12:44.956Z"
+  },
+  "e2e-2": [
+   {
+    "keyword": "pdf to video",
+    "before": 18,
+    "data": {
+     "score": "42.6",
+     "level": "中等",
+     "kwstats": "",
+     "budget": "进入前十的链接预算（经验值）：约 45–95 个引用域（中值 65）；目录/收录型外链为主时约 160–380 个。对应域名权重量级约 DR 29。按 Ahrefs 官方 KD→引用域曲线由难度分 42.6 插值（该口径为进入前十所需）。现实对照：盘面最弱结果为 scholarly.so（DR 31，内页）。",
+     "reasons": "综合 Top10 结果的位置加权竞争强度（首页全额、普通内页 45% 折算、专门经营页面 65% 折算），关键词难度估算为 42.6/100（中等）。\n前 10 名全部是内页排名，且盘面存在外链与权重相对薄弱的内容页占位（如第 3 名 disign.tv，难度贡献仅 24.8）—— 没有人押上首页经营这个词，用专业内容页（或聚焦型首页）有结构性的进入机会。（-4）\n9/10 个结果是专门为这个词制作的页面（标题或主力流量词直接命中），多个站点重兵正面争夺 —— 这不是\"大站顺路排名\"的机会盘面，而是被正面争夺的红海词。（+10）\n前十中 10 个有关键词数据的域名，主力流量词均不包含此词，占位者都不是专门为这个词而来。（-4）\n提示：未能从排名站点的主力流量词中取得该词搜索量，无法做体量判断 —— 评估性价比前请自行核对月搜索量（难度合适但体量过小的词同样不值得做）。\n盘面实测：最弱的占位者是第 10 名 scholarly.so（DR 31，按 DR 折算约 79 个引用域）—— 这是这个盘面上真实做到过的门槛，比下面的曲线值更该信。进入前十的链接预算（曲线口径）：约 45–95 个引用域（中值 65，按 Ahrefs 官方 KD→引用域曲线由难度分 42.6 插值（该口径为进入前十所需）。现实对照：盘面最弱结果为 scholarly.so（DR 31，内页））。若以目录/收录型外链为主（dofollow 占比低，AI 工具站常见打法），需放大到约 160–380 个。对应的域名权重量级约为 DR 29。此为量级参考，非精确值。",
+     "rows": 10
+    },
+    "ok": true,
+    "ms": 5289,
+    "after": 16
+   },
+   {
+    "keyword": "pdf to video converter",
+    "before": 16,
+    "data": {
+     "score": "30.4",
+     "level": "容易",
+     "kwstats": "",
+     "budget": "进入前十的链接预算（经验值）：约 25–55 个引用域（中值 35）；目录/收录型外链为主时约 90–220 个。对应域名权重量级约 DR 24。按 Ahrefs 官方 KD→引用域曲线由难度分 30.4 插值（该口径为进入前十所需）。现实对照：盘面最弱结果为 vidocu.ai（DR 27，内页）。",
+     "reasons": "综合 Top8 结果的位置加权竞争强度（首页全额、普通内页 45% 折算、专门经营页面 65% 折算），关键词难度估算为 30.4/100（容易）。\n前 8 名全部是内页排名，且盘面存在外链与权重相对薄弱的内容页占位（如第 3 名 disign.tv，难度贡献仅 17.2）—— 没有人押上首页经营这个词，用专业内容页（或聚焦型首页）有结构性的进入机会。（-4）\n4 个结果是专门为这个词制作的页面（标题或主力流量词命中），存在明显正面争夺。（+6）\n前十中有 2 个注册不满 18 个月的新域名（vidocu.ai 11 个月、leadde.ai 14 个月）已站稳排名 —— 赛道对新站友好。（-3）\n前十中 8 个有关键词数据的域名，主力流量词均不包含此词，占位者都不是专门为这个词而来。（-4）\n提示：未能从排名站点的主力流量词中取得该词搜索量，无法做体量判断 —— 评估性价比前请自行核对月搜索量（难度合适但体量过小的词同样不值得做）。\n盘面实测：最弱的占位者是第 7 名 vidocu.ai（DR 27，按 DR 折算约 52 个引用域）—— 这是这个盘面上真实做到过的门槛，比下面的曲线值更该信。进入前十的链接预算（曲线口径）：约 25–55 个引用域（中值 35，按 Ahrefs 官方 KD→引用域曲线由难度分 30.4 插值（该口径为进入前十所需）。现实对照：盘面最弱结果为 vidocu.ai（DR 27，内页））。若以目录/收录型外链为主（dofollow 占比低，AI 工具站常见打法），需放大到约 90–220 个。对应的域名权重量级约为 DR 24。此为量级参考，非精确",
+     "rows": 8
+    },
+    "ok": true,
+    "ms": 3711,
+    "after": 15
+   }
+  ]
+ }
+}

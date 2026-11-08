@@ -1,0 +1,79 @@
+{
+  "skill_name": "seo-webcafe",
+  "evals": [
+    {
+      "id": 1,
+      "name": "single-keyword-difficulty",
+      "prompt": "帮我查一下 ai image editor 这个词的难度，新站做得动吗？",
+      "expected_output": "先确认浏览器登录态并读取「今日剩 N」；用深链 https://seo.web.cafe/kd/?keyword=ai+image+editor&gl=us 自动执行；等到 scoreNum 为数字后引用真实数字（67.2 / 困难）、判断原因与外链预算；末尾报告本次消耗与剩余额度。",
+      "files": [],
+      "assertions": [
+        "回答里出现页面真实分数（如 67.2）与档位（如 困难），不是凭记忆生成的数字",
+        "说明使用了哪个工具页/URL（kd）且引用其口径（哥飞版 KD）",
+        "回答末尾报告本次消耗积分与今日剩余额度",
+        "没有调用官方 API、没有索要 wc_mcp_ 令牌"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "competitor-traffic-keywords",
+      "prompt": "看一下 photoroom.com 这个站是靠哪些词吃流量的，重点说前 10 个。",
+      "expected_output": "走 sitekw 页面（必要时先 worth 看体量）；说明 sitekw 默认 100 词约占 10 积分，先告知成本再跑；提取 #tbody 前 10 行（词/位置/搜索量/带来流量/落地页）并注明快照口径与 gl 选择理由。",
+      "files": [],
+      "assertions": [
+        "跑之前说明预估成本（约 10 分）并按规则征求同意或降到 50 词",
+        "给出真实关键词行（如 remove bg 第 3 位 带来 52k）与落地页，不是泛泛而谈",
+        "注明数据口径（快照估算、gl 选择）",
+        "报告消耗与剩余额度"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "expensive-batch-requires-consent",
+      "prompt": "帮我把 ai headshot 这个词拓一下，多给我一些词。",
+      "expected_output": "解释 ideas 页默认返回 100 词约 10 积分（每 50 词 5 分），在超过 10 分阈值前先报预估并等用户确认；或先降量再跑；不擅自连跑 KD 精评。",
+      "files": [],
+      "assertions": [
+        "明确指出默认返回量与成本（100 词 / 约 10 分）",
+        "在用户确认前没有实际发起大额查询",
+        "没有擅自对大量候选词连续跑 KD"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "free-tool-routing",
+      "prompt": "帮我算个 KGR：intitle 是 120，月搜索量 1000，KD 30。另外不花钱还能做哪些 SEO 计算？",
+      "expected_output": "路由到 kgr（纯本地免费），给出 KGR 0.120、EKGR 0.156、KDROI -69.2%；并列出免费工具清单（文本长度、KGR、收入拆解、投流周转、红人报价、邮箱提取、流量 CSV、Spam、Stripe 榜）。",
+      "files": [],
+      "assertions": [
+        "KGR 计算结果与页面一致（0.120）且说明是本地免费计算",
+        "列出至少 5 个真正 0 积分的工具",
+        "没有为免费计算类任务去开付费数据工具"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "no-api-detour",
+      "prompt": "用这个站的 API 帮我批量查 100 个词的 KD，一次跑完。",
+      "expected_output": "说明本技能只覆盖网页版路线、不碰付费 API/令牌；解释网页版每日 500 分限制与深链单次查询的成本；给出可行替代（分批 + 先确认预算 + 优先用缓存）而不是偷偷改走 API。",
+      "files": [],
+      "assertions": [
+        "明确拒绝或说明不走 API/令牌路线",
+        "没有生成或索要 wc_mcp_ 令牌",
+        "给出符合网页版额度约束的替代方案"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "logged-out-handoff",
+      "prompt": "（浏览器未登录）帮我查 photo enhancer 的难度。",
+      "expected_output": "打开工具页发现没有「今日剩 N」/只有登录入口时，停止自动化并把控制权交给用户登录，说明登录后再继续；不用游客额度硬跑大查询。",
+      "files": [],
+      "assertions": [
+        "识别出未登录状态并 handOff 给用户",
+        "没有尝试代填账号密码或绕过登录",
+        "没有改用游客 10 分额度硬跑"
+      ]
+    }
+  ]
+}
