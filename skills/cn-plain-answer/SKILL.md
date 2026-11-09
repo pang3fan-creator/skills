@@ -1,6 +1,6 @@
 ---
 name: cn-plain-answer
-description: 把会话里写给用户的中文散文约束成受控平实中文，让用户读得快、判断得准。只作用于对话正文，不作用于代码、命令、路径、引用原文和项目产出物。仅显式调用：/skill:cn-plain-answer。
+description: 把会话中写给用户的中文散文约束成受控、平实的中文，让用户读得快、判断得准。只作用于对话正文，不作用于代码、命令、路径、引用原文和项目产出物。仅通过 /skill:cn-plain-answer 显式调用。
 disable-model-invocation: true
 ---
 
