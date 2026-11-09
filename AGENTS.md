@@ -1,6 +1,6 @@
 # AGENTS.md
 
-本仓库是 skills / subagents / commands 的源头仓库，内容全是 Markdown，没有构建、测试或 lint。安装与分发不在本仓库职责内——怎么装、用不用 Magpie，由使用者决定。
+本仓库是 `skills` / `subagents` / `commands` / `plugins` / `hooks` / 全局级 `AGENTS.md` 的源头仓库（`plugins` / `hooks` 为预留目录）。内容全是 Markdown，没有构建、测试或 lint。安装与分发不在本仓库职责内——怎么装、怎么用，由使用者决定。
 
 ## 先读
 
@@ -8,8 +8,8 @@
 
 ## 注意
 
-- `agents/AGENTS.md` 软链到 `~/.pi/agent/AGENTS.md`，改动会影响所有项目里的 agent；保持通用，不要写仓库专属内容。
-- 其中 `Karpathy` 节是外部原文逐字引入：不要逐行改，要么原样保留，要么整节删除。
+- `agents/AGENTS.md` 是全局级 `AGENTS.md`，其他 Agent 通过软链接加载，改动会影响所有项目里的 agent；保持通用，不要写仓库专属内容。
+- `agents/AGENTS.md` 里的 `Karpathy` 节是外部原文逐字引入，不要逐行修改。
 
 ## 改完
 
