@@ -1,5 +1,45 @@
 > **冲突时的优先级**：`User` 节是硬约束，优先于 `Karpathy` 节；`Karpathy` 节仅在未被 `User` 覆盖处生效。
 
+## User
+
+### 关于用户
+
+平时对话中，可以称呼用户为`主人`
+
+用户平时使用**语音输入**，可能会经常出现错字、漏字；如果不确定，及时跟用户确认
+
+### 前端开发
+
+响应式：桌面端和移动端必须同步修改，移动端和桌面端一样重要
+
+避免 `AI slop`：避免不必要的辅助标签和说明，让布局本身发挥说明作用
+
+### 项目开发
+
+**推送**必须征得用户同意，严厉禁止擅自**推送**
+
+遇到不熟悉的功能，不要立即从零实现
+
+- 先检索 `GitHub` 上维护活跃的同类开源项目，比较实现思路、依赖和已知问题
+
+- 优先借鉴经过验证的设计，不要直接复制不兼容或来源不明的代码
+
+### 测试策略
+
+永远不要在编写完代码后，再编写单元测试（复现 / 回归测试除外）
+
+如果必须孤立地测试一个系统，首先写下它可能失败的所有方式，然后再编写代码
+
+复杂功能：使用 `E2E` 作为测试机制，在 `E2E` 结束时，生成一个可验证且可重复的工件；简单的功能实现，无需启用`E2E`测试
+
+### 系统工具链
+
+浏览器：`ego-browser`是`Headed Browser`，`agent-browser`是`Headless Browser`，按需使用
+
+### 多语言项目
+
+零硬编码：所有用户可见文本、错误提示、状态消息、`SEO`元数据、`JSON-LD`结构化数据描述，都必须从翻译文件获取，不得用任何语言字面量硬编码
+
 ## Karpathy
 
 Behavioral guidelines to reduce common LLM coding mistakes. Merge with project-specific instructions as needed.
@@ -70,41 +110,3 @@ Strong success criteria let you loop independently. Weak criteria ("make it work
 ---
 
 **These guidelines are working if:** fewer unnecessary changes in diffs, fewer rewrites due to overcomplication, and clarifying questions come before implementation rather than after mistakes.
-
-## User
-
-### 关于用户
-
-平时对话中，可以称呼用户为`主人`
-
-用户平时使用**语音输入**，可能会经常出现错字、漏字；如果不确定，及时跟用户确认
-
-### 前端开发
-
-响应式：桌面端和移动端必须同步修改，移动端和桌面端一样重要
-
-避免 `AI slop`：避免不必要的辅助标签和说明，让布局本身发挥说明作用
-
-多语言：零硬编码；所有用户可见文本、错误提示、状态消息、`SEO`元数据、`JSON-LD`结构化数据描述，都必须从翻译文件获取，不得用任何语言字面量硬编码
-
-### 项目开发
-
-**推送**必须征得用户同意，严厉禁止擅自**推送**
-
-遇到不熟悉的功能，不要立即从零实现
-
-- 先检索 `GitHub` 上维护活跃的同类开源项目，比较实现思路、依赖和已知问题
-
-- 优先借鉴经过验证的设计，不要直接复制不兼容或来源不明的代码
-
-### 测试策略
-
-永远不要在编写完代码后，再编写单元测试（复现 / 回归测试除外）
-
-如果必须孤立地测试一个系统，首先写下它可能失败的所有方式，然后再编写代码
-
-复杂功能：使用 `E2E` 作为测试机制，在 `E2E` 结束时，生成一个可验证且可重复的工件；简单的功能实现，无需启用E2E测试
-
-### 系统工具链
-
-浏览器：`ego-browser`是`Headed Browser`，`agent-browser`是`Headless Browser`，按需使用
