@@ -6,17 +6,11 @@ A collection of agent-agnostic skills, subagents, and commands for AI coding age
 
 | Skill | Description |
 |-------|-------------|
-| **agent-automation-recommender** | Analyze a codebase and recommend agent automations (subagents, skills, hooks, plugins, MCP servers) |
-| **agent-md-improver** | Audit and improve AGENTS.md files across a codebase |
-| **cn-plain-answer** | Constrain the assistant's Chinese session output to controlled plain Chinese on demand (explicit `/skill:` invocation) |
-| **content-builder** | Take a keyword from SERP research to an approved outline, human-sounding copy, titles, internal links, and a computed keyword-density report |
-| **interface-design** | Design systems and pixel-level UI for dashboards, apps, and internal tools (not marketing sites) |
-| **nextjs-tanstack-port** | Port Next.js (App Router) pages or MDX/fumadocs content into a TanStack Start (Vite) project |
-| **prompt-lookup** | Discover, retrieve, and improve prompts via the prompts.chat MCP server |
-| **revise-agent-md** | Update AGENTS.md with learnings from the current session |
+| **cn-plain-answer** | Constrain Chinese session output to controlled, plain Chinese; explicit `/skill:` invocation only |
+| **content-builder** | Take a keyword from SERP research through an approved outline, human-sounding copy, titles, internal links, and a keyword-density report |
+| **eli5** | Explain a topic as if to a five-year-old |
 | **seo-preflight-gate** | Pre-publish SEO gate: H1, canonical, noindex, hreflang, sitemap, internal links |
-| **seo-webcafe** | Use seo.web.cafe (哥飞 SEO toolbox) through a browser to pull live SEO data — KD, keyword ideas, SERP breakdowns, competitor traffic keywords, DR, valuations, on-page audits — on the site's daily web credits instead of the paid API |
-| **session-saver** | Save session summaries to `docs/sessions/` for context recovery |
+| **seo-webcafe** | Pull live SEO data (KD, keyword ideas, SERPs, DR, valuations, on-page audits) from seo.web.cafe through a browser |
 
 ## Subagents
 
@@ -31,31 +25,26 @@ See [subagents/子代理功能介绍.md](subagents/子代理功能介绍.md) for
 
 ## Commands
 
-Slash commands for the `interface-design` skill:
-
 | Command | Description |
 |---------|-------------|
-| **init** | Build UI with craft and consistency, starting from intent |
-| **extract** | Extract design patterns from existing code into `.interface-design/system.md` |
-| **audit** | Check existing code against the design system for spacing, depth, color, and pattern violations |
-| **status** | Show current design system state: direction, tokens, and patterns |
+| **docs-audit** | Audit and reorganize `docs/` for progressive disclosure, index coverage, and the AGENTS.md doc-update rule |
 
-## Docs
+## Reference
 
 | Doc | Description |
 |-----|-------------|
-| [docs/Analytics/analytics-kit.md](docs/Analytics/analytics-kit.md) | Type-safe analytics client for GSC, GA4, Clarity, Bing Webmaster, Ahrefs, and keyword difficulty |
+| [local/Analytics/analytics-kit.md](local/Analytics/analytics-kit.md) | Type-safe analytics client for GSC, GA4, Clarity, Bing Webmaster, Ahrefs, and keyword difficulty |
 
 ## Layout
 
 ```
 agents/       Global AGENTS.md guidelines
 commands/     Slash commands
-docs/         Reference documentation
+docs/         Project documentation
+local/        Reference docs kept outside docs/
 skills/       Skill packages (SKILL.md + references/, assets/, scripts/, evals/)
 subagents/    Subagent definitions
 hooks/        Reserved
-lsps/         Reserved
 mcps/         Reserved
 plugins/      Reserved
 ```
