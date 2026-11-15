@@ -1,1 +1,0 @@
-/Volumes/workspace/0-MyNote/analytics-kit/README.md
