@@ -9,14 +9,14 @@ Apply the project's documentation conventions. Default target is `./docs`; use `
 
 ## Conventions
 
-1. **One home.** All documentation lives under `docs/`. Tool configs and generated files are the only exceptions.
+1. **One home.** Documentation pages live under `docs/`. Two files stay at the project root by design: `README.md` (the index) and `AGENTS.md` (agent instructions). Tool configs and generated files are the other exceptions.
 2. **Progressive disclosure.** Every file stays small. The entry file holds a summary and a table of contents; details live in per-section files that link back.
 3. **Index at the root.** The root `README.md` links to the entry files, so any page is reachable in two hops.
 4. **Docs are part of the change.** `AGENTS.md` requires that a behavior change updates its docs. Rules get skipped in practice, so this audit exists.
 
 ## Workflow
 
-1. Map the docs: every file under `docs/`, its line count, its outbound links, and its inbound links. Flag files nothing links to, and links that resolve to nothing.
+1. Map the docs: every file under `docs/`, plus the root `README.md` and `AGENTS.md`. Record each file's line count, outbound links, and inbound links. Flag files nothing links to, and links that resolve to nothing.
 2. Check the conventions in order. Later checks depend on the shape the earlier ones produce.
 3. Report before changing anything. One table: convention, file, what is wrong, smallest fix. When a file breaks several conventions, fix the split before the links.
 4. Ask which fixes to apply. Restructuring moves content, so never delete text without approval.
