@@ -48,8 +48,8 @@
 
 浏览器：
 
+- `ego-browser`是`Headed`，占用独立窗口，优先；
 - `magpie-browser MCP`，直接使用 `google chrome`；
-- `ego-browser`是`Headed`，占用独立窗口；
 - `agent-browser`是`Headless`，批量抓取、无人值守用
 
 ## 多语言项目
