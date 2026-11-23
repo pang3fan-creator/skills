@@ -9,7 +9,7 @@
 ## 注意
 
 - `agents/AGENTS.md` 是全局级 `AGENTS.md`，其他 Agent 通过软链接加载，改动会影响所有项目里的 agent；保持通用，不要写仓库专属内容。
-- `agents/AGENTS.md` 里的 `Karpathy` 节是外部原文逐字引入，不要逐行修改。
+- 常驻提示词只留模型的非默认行为；`agents/AGENTS.md` 的「编码准则」节压缩自 Karpathy 原文，可以继续压。新增条款前先问一句「强模型是不是本来就这么做」。
 
 ## 改完
 
