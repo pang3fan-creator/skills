@@ -32,7 +32,7 @@
 
 ### 系统工具链
 
-浏览器：`ego-browser`是`Headed Browser`，`agent-browser`是`Headless Browser`，按需使用
+浏览器：`magpie-browser MCP` 直接使用`chrome`；`ego-browser`是`Headed`，占用独立窗口；`agent-browser`是`Headless`，批量抓取、无人值守用
 
 ### 多语言项目
 
