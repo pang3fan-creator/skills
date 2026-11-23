@@ -48,9 +48,9 @@
 
 浏览器：
 
-- `ego-browser`是`Headed`，占用独立窗口，优先；
-- `magpie-browser MCP`，直接使用 `google chrome`；
-- `agent-browser`是`Headless`，批量抓取、无人值守用
+- `ego-browser`是`Headed`，占用独立窗口，优先；独立配置文件，Google 账号常驻登录，日常查数据、读页面、填表单、跑多步脚本都用它
+- `magpie-browser MCP`，直接使用  `chrome`；可在如下情况下使用：需要和用户实时同一会话（用户在 `chrome` 里登录的站），或把操作录成视频给用户看
+- `agent-browser`是`Headless`，原生 Rust，启动最快、不占窗口；用于批量抓取（几十上百页、无人值守）、Electron 桌面应用（VS Code / Slack / Discord / Figma / Notion）、录 HAR 反推站点内部接口、以及本地资源不够时跑云端浏览器（Vercel Sandbox / AWS AgentCore）
 
 ## 多语言项目
 
